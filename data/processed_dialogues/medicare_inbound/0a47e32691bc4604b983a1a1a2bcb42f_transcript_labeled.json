@@ -1,0 +1,1267 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Thank you for calling the [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "How may I help you?"
+  },
+  {
+    "turn_id": 3,
+    "speaker": "customer",
+    "text": "Hi, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "My name is [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "I have my daughter who was admitted into [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] for an [MEDICAL_CONDITION] [MEDICAL_CONDITION]."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "She was in there about [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "She's been doing the [MEDICAL_PROCESS] [MEDICAL_PROCESS] with [PERSON_NAME], but she is declining, not wanting to eat, so we're looking for an [MEDICAL_PROCESS]."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] has a wait for about [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "I was wondering if you guys have any beds available."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "How old is your daughter?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "She's [PERSON_AGE] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "[PERSON_AGE] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "Okay, let me see."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "Bear with me."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "I'm just pulling up the [PERSON_AGE] boards really quick."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "We do have one potential bed open at the moment in our [PERSON_AGE] program, which doesnt happen very often."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "agent",
+    "text": "So we do have a bed right now that we could potentially look at for your daughter."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "Okay, so how do we go about doing that?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "She's refusing to eat since yesterday."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "She was at her dad's house and I guess had breakfast."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "She'd been doing pretty well with the [ORGANIZATION] program, and then just all of a sudden she just decided she's not eating anymore."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "And I didn't know if I should take her to the hospital or if I should start making calls since [PERSON_NAME] did update us yesterday saying that there' [MEDICAL_PROCESS] was about another [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "We've been waiting for about [DURATION] [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "[DURATION] [DURATION] now, and then they just pushed it back another [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "We could definitely get the process going."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "I just need to start by gathering demographic information."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "We'll need insurance information."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "We'll need records from [PERSON_NAME] to a screen."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "You know, the whole process."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "But I could definitely get the process going."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "Sure."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "We could definitely get that started."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "Let grab my wallet."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "I can get my insurance information."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "And then do what?"
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "I just let [PERSON_NAME] know to fax information over to you or."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "O."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Yeahah."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "So, [PERSON_NAME], can you spell your first name?"
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "Can you spell your first name for me?"
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "Just so sorry."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "It's [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "And you said your last name was [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "And what's a good phone number for you?"
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "And what's your daughter's name?"
+  },
+  {
+    "turn_id": 59,
+    "speaker": "customer",
+    "text": "Her first name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "And her last name?"
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "Her last name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "It'bunin."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "customer",
+    "text": "And then [PERSON_NAME]."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "And whats [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "Date of birth?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "Sorry, what was that?"
+  },
+  {
+    "turn_id": 71,
+    "speaker": "customer",
+    "text": "Her date of birth."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "[DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "agent",
+    "text": "And how did you hear about the [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 75,
+    "speaker": "customer",
+    "text": "So when we were in [ORGANIZATION], they gave us a list of [ORGANIZATION] as well as residential or [MEDICAL_PROCESS] as a backup."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "agent",
+    "text": "And your guys name was on it."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "customer",
+    "text": "Okay, gotcha."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "agent",
+    "text": "So [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "agent",
+    "text": "Y."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "customer",
+    "text": "Do you know [PERSON_NAME] current height and weight?"
+  },
+  {
+    "turn_id": 82,
+    "speaker": "agent",
+    "text": "Current height is [PHYSICAL_ATTRIBUTE] and her weight was."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "customer",
+    "text": "Is [PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "[PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "customer",
+    "text": "Okay, let me just do."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "I think she's okay."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "I want to make sure she's within admission range."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "Let's see."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "Oh yeah, we're good."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "I thought so, but I just wanted to make sure."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "And what's a good email for you?"
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "So its going to be my first name."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "[EMAIL_ADDRESS] Perfect."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "And tell me, prior to yesterday, when she stopped eating, what are the [MEDICAL_CONDITION] [MEDICAL_CONDITION] behaviors?"
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "What is she in treatment for?"
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "So probably [DATE_INTERVAL] [DATE_INTERVAL] [DATE_INTERVAL], she decided she was just, she wasn't going to eat."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "And she went from [PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE] to [PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "Well, she was less."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "But the hospital, because she was in there for [DURATION] [DURATION], she was on a feeding tube for about [DURATION] [DURATION] [DURATION] [DURATION] [DURATION] and then started eating on her own."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "So I think that answers your question."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "Sorry."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "Been stressed about this."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "Yeah, that's understandable."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "Okay, so restrictive behaviors."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "customer",
+    "text": "It was like in the last couple [DURATION], had she been doing any restrictive behaviors prior to, you know, yesterday?"
+  },
+  {
+    "turn_id": 110,
+    "speaker": "agent",
+    "text": "So when she got out of [ORGANIZATION], even when she was in [ORGANIZATION], she was doing fantastic."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "customer",
+    "text": "She would eat everything they gave her."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "agent",
+    "text": "I think she, we would supplement with [DRUG]."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "customer",
+    "text": "I mean, she was doing great."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "We were getting her about 1,800 calories, sometimes a little more, sometimes a little less."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "customer",
+    "text": "At my home."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "agent",
+    "text": "We did notice the reason [PERSON_NAME] wanted to move from [ORGANIZATION] to [MEDICAL_PROCESS] was one, talking with [PERSON_NAME] and two, the inconsistency at her dad's house versus mine."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "customer",
+    "text": "He was only able to get her at [TIME], 13, [TIME], [TIME]."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "And so they needed more consistency on that."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "customer",
+    "text": "But up until yesterday, which I have no idea what changed."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "She was at her dad's house."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "customer",
+    "text": "She just decided she wasn't eating anymore."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "And I tried last night to get her to eat a snack."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "customer",
+    "text": "I tried this morning and she's like, I'm done."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "agent",
+    "text": "I'm not eating."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "customer",
+    "text": "And I'm like, okay, gotcha."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "agent",
+    "text": "Okay, so something, something triggered the food refusal, right'she?"
+  },
+  {
+    "turn_id": 127,
+    "speaker": "customer",
+    "text": "Has't gained."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "agent",
+    "text": "I mean, I was like, well, she hasn't gained weight since she left the hospital."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "customer",
+    "text": "She's been maintaining what she was at."
+  },
+  {
+    "turn_id": 130,
+    "speaker": "agent",
+    "text": "I don't know."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "customer",
+    "text": "I mean, there was some kids at school Part of."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "agent",
+    "text": "We assume part of the reason for her [MEDICAL_CONDITION] [MEDICAL_CONDITION] is a couple kids at school were like bullying her and calling her like fat a co."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "customer",
+    "text": "I asked her if they started doing it again."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "agent",
+    "text": "She's like no."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "customer",
+    "text": "So I don't know what caused all of a sudden her to go back to not wanting to eat."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "agent",
+    "text": "Okay, so she'being bullied at school."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "customer",
+    "text": "Yeah, that was."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "agent",
+    "text": "We assumed that was part of it."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "customer",
+    "text": "We also had a change in her in custody prior to the first [DURATION] [DURATION] of her life."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "agent",
+    "text": "She was with me 99% of the time and would go over to her dads [DURATION] [DURATION] [DURATION] [DURATION] on Saturday to Sunday."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "customer",
+    "text": "In [DATE_INTERVAL], that changed."
+  },
+  {
+    "turn_id": 142,
+    "speaker": "agent",
+    "text": "She wanted more time."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "customer",
+    "text": "And so we went to court and adjusted her schedule."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "agent",
+    "text": "And then like within [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "customer",
+    "text": "About [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 146,
+    "speaker": "agent",
+    "text": "Because that happened [DATE_INTERVAL] [DATE_INTERVAL] [DATE_INTERVAL], about [DURATION] [DURATION] later when her [MEDICAL_CONDITION] [MEDICAL_CONDITION] started."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "customer",
+    "text": "We don't know if it had something to do with the change in custody."
+  },
+  {
+    "turn_id": 148,
+    "speaker": "agent",
+    "text": "We don't know if it was the bullying or all of the above."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "customer",
+    "text": "We have no idea what started it."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "agent",
+    "text": "And she doesn't either, apparently."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "customer",
+    "text": "Yeah, it makes."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "agent",
+    "text": "It's hard to tell sometimes, especially at such a young age, what triggered it."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "customer",
+    "text": "That insight sometimes hard to come by."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "agent",
+    "text": "That's understandable."
+  },
+  {
+    "turn_id": 155,
+    "speaker": "customer",
+    "text": "Okay, and when does she discharge from [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 156,
+    "speaker": "agent",
+    "text": "[DATE]."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "customer",
+    "text": "Okay, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "customer",
+    "text": "Do you know is [PERSON_NAME] having any thoughts of suicide or any self harming behaviors?"
+  },
+  {
+    "turn_id": 160,
+    "speaker": "agent",
+    "text": "Well, yesah."
+  },
+  {
+    "turn_id": 161,
+    "speaker": "customer",
+    "text": "That came to light the whole entire time she was at the hospital."
+  },
+  {
+    "turn_id": 162,
+    "speaker": "agent",
+    "text": "They kept asking her and they said no because they have her on [DRUG] and another medicine she takes at night."
+  },
+  {
+    "turn_id": 163,
+    "speaker": "customer",
+    "text": "I can't think it off the top of my head."
+  },
+  {
+    "turn_id": 164,
+    "speaker": "agent",
+    "text": "I can go look."
+  },
+  {
+    "turn_id": 165,
+    "speaker": "customer",
+    "text": "But they kept asking her and she kept saying no."
+  },
+  {
+    "turn_id": 166,
+    "speaker": "agent",
+    "text": "But then when we went into [PERSON_NAME] for our assessment for the outatient [MEDICAL_PROCESS] [MEDICAL_PROCESS], she said yes."
+  },
+  {
+    "turn_id": 167,
+    "speaker": "customer",
+    "text": "She was."
+  },
+  {
+    "turn_id": 168,
+    "speaker": "agent",
+    "text": "And I guess yesterday when she was in one of her sessions with her [OCCUPATION], she expressed that she wanted to hurt herself."
+  },
+  {
+    "turn_id": 169,
+    "speaker": "customer",
+    "text": "But she doesn't have a plan or know what she would do."
+  },
+  {
+    "turn_id": 170,
+    "speaker": "agent",
+    "text": "Agrees to safety plans."
+  },
+  {
+    "turn_id": 171,
+    "speaker": "customer",
+    "text": "But yes."
+  },
+  {
+    "turn_id": 172,
+    "speaker": "customer",
+    "text": "We just found out about this like a couple [DURATION] ago."
+  },
+  {
+    "turn_id": 173,
+    "speaker": "agent",
+    "text": "Gotcha."
+  },
+  {
+    "turn_id": 174,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 175,
+    "speaker": "agent",
+    "text": "No plan."
+  },
+  {
+    "turn_id": 176,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 177,
+    "speaker": "agent",
+    "text": "And then what insurance is [PERSON_NAME] currently covered by?"
+  },
+  {
+    "turn_id": 178,
+    "speaker": "customer",
+    "text": "Oh, yeah, let me."
+  },
+  {
+    "turn_id": 179,
+    "speaker": "agent",
+    "text": "Sorry I walked outside."
+  },
+  {
+    "turn_id": 180,
+    "speaker": "customer",
+    "text": "That's okay."
+  },
+  {
+    "turn_id": 181,
+    "speaker": "agent",
+    "text": "No worries."
+  },
+  {
+    "turn_id": 182,
+    "speaker": "customer",
+    "text": "It's called PHCS Let me get my wallet."
+  },
+  {
+    "turn_id": 183,
+    "speaker": "agent",
+    "text": "Yeah, it's PHC s. I don't know if you need a group number or."
+  },
+  {
+    "turn_id": 184,
+    "speaker": "agent",
+    "text": "Yeah, well, let's start with who's the primary cardholder?"
+  },
+  {
+    "turn_id": 185,
+    "speaker": "customer",
+    "text": "I am."
+  },
+  {
+    "turn_id": 186,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 187,
+    "speaker": "agent",
+    "text": "And what's your date of birth?"
+  },
+  {
+    "turn_id": 188,
+    "speaker": "agent",
+    "text": "And Your mom."
+  },
+  {
+    "turn_id": 189,
+    "speaker": "agent",
+    "text": "Is it through your employer?"
+  },
+  {
+    "turn_id": 190,
+    "speaker": "customer",
+    "text": "Is it a self paid plan?"
+  },
+  {
+    "turn_id": 191,
+    "speaker": "agent",
+    "text": "It's been my employer."
+  },
+  {
+    "turn_id": 192,
+    "speaker": "customer",
+    "text": "And who's the employer?"
+  },
+  {
+    "turn_id": 193,
+    "speaker": "agent",
+    "text": "It's [ORGANIZATION]."
+  },
+  {
+    "turn_id": 194,
+    "speaker": "customer",
+    "text": "It's [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] so [ORGANIZATION] [ORGANIZATION] what?"
+  },
+  {
+    "turn_id": 195,
+    "speaker": "agent",
+    "text": "[ORGANIZATION] [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 196,
+    "speaker": "customer",
+    "text": "Uh huh."
+  },
+  {
+    "turn_id": 197,
+    "speaker": "agent",
+    "text": "Oh, [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 198,
+    "speaker": "customer",
+    "text": "Gotcha."
+  },
+  {
+    "turn_id": 199,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 200,
+    "speaker": "customer",
+    "text": "Y."
+  },
+  {
+    "turn_id": 201,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 202,
+    "speaker": "customer",
+    "text": "And what's the ID number?"
+  },
+  {
+    "turn_id": 203,
+    "speaker": "agent",
+    "text": "So my group ID number is [NUMBER_SEQUENCE]."
+  },
+  {
+    "turn_id": 204,
+    "speaker": "customer",
+    "text": "ID is that the group number or the ID number?"
+  },
+  {
+    "turn_id": 205,
+    "speaker": "agent",
+    "text": "That's the group ID number."
+  },
+  {
+    "turn_id": 206,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 207,
+    "speaker": "agent",
+    "text": "Group ID."
+  },
+  {
+    "turn_id": 208,
+    "speaker": "customer",
+    "text": "And I have my member ID number if you need that."
+  },
+  {
+    "turn_id": 209,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 210,
+    "speaker": "customer",
+    "text": "That's the group number."
+  },
+  {
+    "turn_id": 211,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 212,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 213,
+    "speaker": "agent",
+    "text": "What's the member ID number?"
+  },
+  {
+    "turn_id": 214,
+    "speaker": "customer",
+    "text": "[HEALTHCARE_NUMBER] [ORGANIZATION] [ORGANIZATION] [HEALTHCARE_NUMBER]."
+  },
+  {
+    "turn_id": 215,
+    "speaker": "agent",
+    "text": "[HEALTHCARE_NUMBER]."
+  },
+  {
+    "turn_id": 216,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 217,
+    "speaker": "agent",
+    "text": "And then the phone number for providers or a customer service phone number."
+  },
+  {
+    "turn_id": 218,
+    "speaker": "customer",
+    "text": "Yep, that number is."
+  },
+  {
+    "turn_id": 219,
+    "speaker": "agent",
+    "text": "Let me find that."
+  },
+  {
+    "turn_id": 220,
+    "speaker": "customer",
+    "text": "It's one of."
+  },
+  {
+    "turn_id": 221,
+    "speaker": "agent",
+    "text": "Did you one that's correct."
+  },
+  {
+    "turn_id": 222,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 223,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 224,
+    "speaker": "agent",
+    "text": "And then the last thing I need is I just need your home address."
+  },
+  {
+    "turn_id": 225,
+    "speaker": "customer",
+    "text": "My home address is [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [PERSON_NAME] [PERSON_NAME] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 226,
+    "speaker": "agent",
+    "text": "And that's in [LOCATION], [LOCATION]."
+  },
+  {
+    "turn_id": 227,
+    "speaker": "customer",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 228,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 229,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 230,
+    "speaker": "agent",
+    "text": "Okay, so what I'm going to do is I'm going to get a file open for [PERSON_NAME]."
+  },
+  {
+    "turn_id": 231,
+    "speaker": "agent",
+    "text": "I'll send everything over to our [ORGANIZATION] [ORGANIZATION] right now, have them verify the insurance and then they'll give you a call, go over what cost of treatment will look like."
+  },
+  {
+    "turn_id": 232,
+    "speaker": "agent",
+    "text": "While they're doing that, I'll have if you could call [PERSON_NAME] and have them work on getting us records."
+  },
+  {
+    "turn_id": 233,
+    "speaker": "customer",
+    "text": "I am, right now."
+  },
+  {
+    "turn_id": 234,
+    "speaker": "agent",
+    "text": "That works."
+  },
+  {
+    "turn_id": 235,
+    "speaker": "customer",
+    "text": "And then we can work on going from there and seeing what we can do about getting [PERSON_NAME] here in this open bed that we have."
+  },
+  {
+    "turn_id": 236,
+    "speaker": "agent",
+    "text": "Y and what is your fax number?"
+  },
+  {
+    "turn_id": 237,
+    "speaker": "customer",
+    "text": "Oh, that would be helpful, wouldn't it?"
+  },
+  {
+    "turn_id": 238,
+    "speaker": "agent",
+    "text": "All right, perfect."
+  },
+  {
+    "turn_id": 239,
+    "speaker": "customer",
+    "text": "I will have them start sending that information over."
+  },
+  {
+    "turn_id": 240,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 241,
+    "speaker": "customer",
+    "text": "Excellent."
+  },
+  {
+    "turn_id": 242,
+    "speaker": "agent",
+    "text": "I thank you so much for it."
+  },
+  {
+    "turn_id": 243,
+    "speaker": "customer",
+    "text": "Yeah, you're very welcome."
+  },
+  {
+    "turn_id": 244,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 245,
+    "speaker": "customer",
+    "text": "I'll get working on this and finance will be out."
+  },
+  {
+    "turn_id": 246,
+    "speaker": "agent",
+    "text": "I'll reach out to you here shortly."
+  },
+  {
+    "turn_id": 247,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 248,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 249,
+    "speaker": "customer",
+    "text": "You're welcome."
+  },
+  {
+    "turn_id": 250,
+    "speaker": "agent",
+    "text": "Bye."
+  },
+  {
+    "turn_id": 251,
+    "speaker": "customer",
+    "text": "Was this call a lead?"
+  },
+  {
+    "turn_id": 252,
+    "speaker": "agent",
+    "text": "Press [TIME] for Y2 for no start to repeat options or pound to skip this step."
+  }
+]

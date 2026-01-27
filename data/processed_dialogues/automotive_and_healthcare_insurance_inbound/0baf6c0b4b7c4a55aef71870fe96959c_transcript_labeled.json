@@ -1,0 +1,572 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] speaking, how may I help you?"
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "Yes, is this [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "customer",
+    "text": "Yeah, where are you located?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "Well, I'm at the call center."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "We've got 11 stores that can transfer you."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "Oh, is there?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "Well, can you transfer me to."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "I guess it'd be [LOCATION] or [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "Yeah, are you looking for sales or service?"
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "Who are you looking for?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "[ORGANIZATION], please."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "For sales."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "Is it regarding a purchase or are you needing help with our inventory?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "Help with the inventory, but I need to know the location."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Yes, so Il get you to [LOCATION] where they have the inventory and Il transfer you."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "Okay, thank you."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "Youre welcome."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "Hello, this is [PERSON_NAME] over at [ORGANIZATION] [ORGANIZATION] in [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "Is this [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "Yeah, how do you know my name?"
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "She told me the gal you just called."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "Oh, hey, u where are you fol located?"
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Yeah, we're in [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "What's the address?"
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "[LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "Roughly, is that kind of northeastern section?"
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "Well, you know where [ORGANIZATION] is that got the freeway there."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "We're off a [LOCATION] [LOCATION], huh?"
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Yeah, off the [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "The [LOCATION] [LOCATION] exit is the one you take."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "It's near the [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "It's over in that business area over here."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "Oh, okay."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "Your way down in what I would call [LOCATION] [LOCATION] [LOCATION] [LOCATION] because that's where the [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] is."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "Well, let's not get confused."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "There'two of them because we're not in [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "We're in [LOCATION] [LOCATION], definitely."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "We."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Yeah, it's on the way to like if you're heading towards [LOCATION] Ye."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "You know, [LOCATION]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "That's the direction you want to go."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "You'd be heading for [LOCATION] [LOCATION] on [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "Be heading."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Guess west is okay."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "Yeah, it's not."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "It's not."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "It's an exit that's about two exits past what you would take, you know, [LOCATION] to go to the airport."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "Yeah, exactly."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "I'll Google if I get a. I can."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Yeah, I wasnn say I can also text you the address, then you just click on it and it'll fight you might go down o that."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "Could you."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Could you do that for me?"
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "I'd appreciate it."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "I would absolutely do that for you."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "You looking for anything in particular here?"
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "I can help in any way or."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "I'm kind of scouting around for a [ORGANIZATION] a bunk house is."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "Now let me ask you, is that for a towable or for driveable?"
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "Oh, for a fifth wheel."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "Okay, so I'm glad I said something because we actually don't carry six wheels or towable trailers anymore."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "Really?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "Yeah, they strictly're going to driveables."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "Seems I'll be."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "Man, that would have been a trip on futility if I came down."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "So I'm glad."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "I'm glad we got that cleared up."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "Yeah, no, we have."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "We have a, you know, huge threee acre indoor showom packe full of drivable coaches if you ever want to change, you know, direction and what you're not going to do."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "But yeah, that class A'class, B."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Class Bs, but yeah, we about, I don't know, [DURATION] [DURATION] ago or so they stopped."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "They started phasing out fifth wheels and towable trailers and strictly are doing those only in [LOCATION] now and."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "Interesting."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "So I appreciate it."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "###E Appciate the time if you."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "I'hear our prices are pretty good in [LOCATION]."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "customer",
+    "text": "Do you want me to send you a link to what that we've got there and you can kind of check it out?"
+  },
+  {
+    "turn_id": 89,
+    "speaker": "agent",
+    "text": "Yeah, that would be great."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "customer",
+    "text": "Because I'm [OCCUPATION] and if something came up that I was really interested in, it wouldn't be any problem for me heading down there."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "customer",
+    "text": "Do you want me to text it to."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "agent",
+    "text": "Do you want me email so it might be easier email because then you can look at it on your computer."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "customer",
+    "text": "Okay, that'd be great."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "agent",
+    "text": "Yeah, it's."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "customer",
+    "text": "Yeah, my email address."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "Isil Got it."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "And what's your last name?"
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "Okay, great."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "All right, well, my name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "You'll probably see an email coming from customer care for [ORGANIZATION], so look for that."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "If it doesn't show up in your inbox, maybe look in your spam file here."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "But yeah, I'll do a search for [ORGANIZATION] fifth wheels and I'll narrow it down for you and I'll send you a link and then if you see something, you know, that you might be interested in, let me know and I can hook you up with somebody in [LOCATION]."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "So."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "Okay, that'work look forward to receiving it."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "Thanks for calling and appreciate it."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "Okay, thanks veryg."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "Bye."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "Bye you."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "Bye."
+  }
+]

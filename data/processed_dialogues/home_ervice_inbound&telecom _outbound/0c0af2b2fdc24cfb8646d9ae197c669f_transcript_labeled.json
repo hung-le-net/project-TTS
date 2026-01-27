@@ -1,0 +1,397 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "[ORGANIZATION] [ORGANIZATION] by [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "How may I help you?"
+  },
+  {
+    "turn_id": 3,
+    "speaker": "customer",
+    "text": "Hi."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "I need to get some carpets cleaned."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "And have you used this before?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "I have not."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "Okay, what is the zip code where you're located?"
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "And what are the areas you're wanting to have cleaned?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "I have three bedrooms, a stairway, the hallway."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "And any issues or concerns other than just needing carpets cleaned?"
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "I mean, the carpets are."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "They're probably [DURATION] years old at this point."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "They've never been cleaned before, so."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "Okay, there's some."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "There's some pet areas that are."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "That are a problem on the stairwell landing."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "From a dog or a cat?"
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "Dog, dog."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "agent",
+    "text": "And are you looking for a particular [DURATION] or time or just what we have?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "customer",
+    "text": "First available?"
+  },
+  {
+    "turn_id": 26,
+    "speaker": "agent",
+    "text": "Yeah, first available."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "customer",
+    "text": "Do you have time this [DURATION]?"
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "I can look and see."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "We do have a [OCCUPATION] that is on vacation, so we're a little stacked in here."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "But I can look to see what I have."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "If you don't, that's fine."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "First available was fin."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "Yeah, I can do Thursday."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "I can do a window of arrival between [TIME] and [TIME]."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "Oh, awesome."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "How long does it typically take?"
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "You're probably looking at [DURATION] [DURATION], give or take."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "If he needs to do some [MEDICAL_PROCESS] [MEDICAL_PROCESS] for that stair landing, probably about [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Oay y Do you want to take that [TIME] to [TIME]?"
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Yeah, let's do that."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "agent",
+    "text": "And your name?"
+  },
+  {
+    "turn_id": 45,
+    "speaker": "customer",
+    "text": "My name is [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "agent",
+    "text": "And the address we're going to be going to, it'll be [LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "customer",
+    "text": "If you can note that there, it's not marked with [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "agent",
+    "text": "It's a duplex."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "customer",
+    "text": "The [LOCATION] side is marked, but the [LOCATION] side does not have an address on it is marked [LOCATION] is not marked."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "And the best number we can reach you."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "[PHONE_NUMBER]."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "All right, well, we've got you all set then for Thursday with an arrival time between [TIME] and [TIME]."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "We'give you a reminder text the [DURATION] before and then we will give you a call on Thursday when the [OCCUPATION] is headed your way."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Are you guys able to do a ballpark estimate via information?"
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Yeah, with what you've given me, we consider any area up to 200 square feet as [TIME] room."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "Stairs are also considered [TIME] room."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "So you roughly have about [TIME] and a half rooms."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Right now we're doing a special of two rooms or more for [MONEY_AMOUNT] per room."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "So just for the basic carpet cleaning, you're looking at $[MONEY_AMOUNT], [MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "And once he's there, he'also do a free pet analysis just to locate those areas on that stair landing that you have concerned about."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "We do have a product called Pert, which is our pet urine [MEDICAL_PROCESS] [MEDICAL_PROCESS]."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "A basic carpet cleaning won't eliminate any of that odor or an issue."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "So depending on the severity, depends on how many applications and then [TIME] application is $[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "But he'll give you all that pricing and information up before doing any work."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "Oay once you give him the go ahead to start cleaning, he'll vacuum the areas and then pre treat your high traffic areas as well, free of charge and then get to cleaning."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "Okay, sounds good."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "All I have [TIME] bedroom that's about 225 square feet."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "But all of the other bedrooms, like [TIME] bedroom is like a hundred square feet."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "So like kind of, well, that 225 would be probably be considered a room and a half."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "Okay, that's fine."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "But yeah, like I said, he'll measure everything and give you exact pricing before doing any work."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "agent",
+    "text": "All right, I do appreciate it."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "All right, you enjoy your [DURATION], you guys on Thursday."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "All right, have a good [TIME]."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "You too."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Bye."
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "It's a great [DURATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "I m Mr. [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "How can I help you?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Yes ma'am, I got a clogged up bathroom toilet that I can't get unlogged."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "What you guys charge to come out and clean it out or whatever they need to do to it?"
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "Okay, you have called the right place and we can certainly assist you to uncloc your bathroom Sor May I please have your first and last name?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] thank you."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "And I show the number you are callinging on today [PERSON_NAME], is this a good number to reach you?"
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "Yes, it is."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "And is this your cell phone or is a landline?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "It's a cell phone."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "Okay, may I have this zip code or postal code where the service will be performed?"
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "[LOCATION] okay, let me ask you S Did you consider this as an emergency?"
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "Well, not really but it's a toilet that won't flush so will this be an emergency?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "I mean it's not like I have."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Beg pardon?"
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "Do you consider this as an emergency?"
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "No, it's not an emergency."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "I don't have running water anywhere."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "Okay, well we have service available."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "Okay, go ahead."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "I'm sorry to interrupt you sir."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "I was about to say that we have service available on your area."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Have you used our service before or is this going to be the first time?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "The first time."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "Thank you so much for trusting us."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "And may I ask how you heard about us?"
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "Oh, I'JUST been looking online."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "And may I have the street address where the service is to be performed?"
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "[LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [PERSON_NAME] [PERSON_NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] so is [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [PERSON_NAME] [PERSON_NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] Second Let me verify your address to confirm this is for a residential or is a commercial property?"
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "It's a resident."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "And may I have your email for confirmation of your appointment?"
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "What do you guys charge for [DURATION]?"
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "Can they come out today or no?"
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "Which charge per service or not for [DURATION]?"
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "Give me one second."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "Okay, how much is it to unclogged toilet?"
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Once the [OCCUPATION] will be there they will give you a quote and as well the local office will call you back before the appointment will be completed to let you know if any fees will be applied."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Of course we will let you know before the appointment."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "Sir, for the appointment, what do you prefer this morning or afternoon work best for you?"
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Well, it depends on what [DURATION]?"
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "What [DURATION] do you prefer?"
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "I prefer today."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "Okay, so will be today in the afternoon?"
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "Yeah, already after me."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "So I have all the information with your preferred appointment time which is today in the afternoon."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "I will turn this over toward [OCCUPATION] and you will get a return call as soon as possible to confirm."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "Once your request is confirmed, your appointment should appear in the [ORGANIZATION] app."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "Should I send you a link by email or text to download the app, sir?"
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "No, I don't need the app."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "You don't have any idea how much they charge."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "customer",
+    "text": "We will let you know sir, over the price."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "agent",
+    "text": "I'm not able to give you any prices but of course the [OCCUPATION] will let you know about the quote toair the on clock and the local office if there is any fee."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "customer",
+    "text": "Well, I hate to have them come out here if the quote too high."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "Kind of a waste of time for everybody."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "Well, if they call me for an appointment, can they give me a."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "Can they give me a guessimate at then if you want to once the local office call you to confirm the time and the fe and you can ask them, they can probably give you an estimate."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "But we work by checking first of course to always give you the right idea."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "Well, I don't want to come out here for no reason if they char they want to get too much money just for unclogging the toilet."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "But okay, that's fine."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "So do you still want me to book the appointment for you, sir?"
+  },
+  {
+    "turn_id": 65,
+    "speaker": "customer",
+    "text": "Well, are they going to charge me just for that appointment?"
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "The local office will call you sir, to let you know if there is going to be any fee for having theloma going to your home."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "customer",
+    "text": "We will let you know."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "Okay, that's good."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "That's all right."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "customer",
+    "text": "Before we end our call, we would like to remind you that were performed by all [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] brands is backed by our [ORGANIZATION] donegh promise."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "You can visit [URL] for more information."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "Is there anything else that I can help you with?"
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "No, that be it."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION]."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "[ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "We appreciate your business."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Bye."
+  }
+]

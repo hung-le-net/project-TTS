@@ -1,0 +1,737 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] in the [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "For [LANGUAGE], press [PHONE_NUMBER]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "For [LANGUAGE]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Thanks for calling [ORGANIZATION]."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Gentle and a smile sooner."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "How can I make you smile today?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "Good morning, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "My name is [PERSON_NAME] and I was coming to see."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "How can I make a appointment with you guys?"
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "Okay, I can help you with that."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "Have you been to [ORGANIZATION] [ORGANIZATION] before?"
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "No, ma'am."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "Okay, what's your zip code?"
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "I can find the closest office to your home."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Okay, looks like our closest office is on [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "Is our [LOCATION] [LOCATION] office."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "When would you like to come in?"
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "Do y all have a Y'all open on the weekend?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "We're open on Saturdays, yes, ma'am."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "Let me see what they have this [DURATION]."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "Okay, this Saturday they booked."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "Let me look at next Saturday."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Next Saturday I have [TIME], [TIME], [TIME], [TIME] or [TIME]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "Okay, um, are y'all book though for today?"
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "I'm just trying to see is y all got good for today."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "We have afternoon appointments available."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "Well, actually I have an [TIME] today and then I have several in the afternoon."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "It's up to you."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Okay, yes, I can do the [TIME]."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "O."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "Okay, can I have your first and last name again?"
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "It [PERSON_NAME] is [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] and your last name?"
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "Okay, and what's a good phone number?"
+  },
+  {
+    "turn_id": 37,
+    "speaker": "customer",
+    "text": "I can text the appointment details too."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "agent",
+    "text": "Okay, is a one."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "And your street address?"
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "It's [LOCATION] [LOCATION] [LOCATION] [LOCATION], [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "I don't know, I'm sorry."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "[LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Can you spell the name of that street for me, please?"
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Oh, yes, ma'am."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "It [LOCATION] [LOCATION] [LOCATION] [LOCATION] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "Yes, ma'am, is [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "All rightty, one moment, let me get this done here."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "agent",
+    "text": "And what's your date of birth, ma'am?"
+  },
+  {
+    "turn_id": 49,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH], [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "And will you be using insurance?"
+  },
+  {
+    "turn_id": 51,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "Okay, one moment."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "[ORGANIZATION] [PERSON_NAME], [PERSON_NAME], [ORGANIZATION], [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "Okay, what's the name of your insurance company?"
+  },
+  {
+    "turn_id": 55,
+    "speaker": "customer",
+    "text": "I have no better help."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "agent",
+    "text": "Okay, with Medicaid."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "customer",
+    "text": "What's her ID number?"
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "It is [HEALTHCARE_NUMBER]."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "customer",
+    "text": "And what are we going to be seeing you for today?"
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "I just need like te cle and my te to be checked up."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "Just been around since I went to the den."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "Okay, no worries."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "And I also want to see about like [MEDICAL_PROCESS] [MEDICAL_PROCESS] [MEDICAL_PROCESS] [MEDICAL_PROCESS] [MEDICAL_PROCESS] too."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "Okay, now this office does not offer [MEDICAL_PROCESS] But I can find an office that does, that's close to you."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "And you can come in for the free [MEDICAL_PROCESS] [MEDICAL_PROCESS] and they'll talk to you about pricing and all that good kind of stuff and how long you'd have to have your braces on and stuff like that."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "Give me just a minute to complete this one and then we'll get you and the first exam is completely free."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "Just a minute here."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] there."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "Go."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "Bear with me just a second."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "I'm almost finished with this appointment."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "Oay."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "So I'GOT you set for today and in a few minutes you'going to get a text from me."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "It'going to have the address and the phone number to the office on it and the time and date of your appointment."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Yeah, now we have one on [LOCATION] [LOCATION] [LOCATION] in [LOCATION] that offers [MEDICAL_PROCESS]."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "I was going to see if they had any appointments available today and I could get you set up into that office for everything."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Right."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "Because that's actually closer to my job, so."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "Would [TIME] today work for you?"
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "I gotta be back at work."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "Oh, ok."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "So we are going to just leave you in that office on [LOCATION] [LOCATION] for today."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "agent",
+    "text": "Unless you wanted to come up [TIME] this afternoon."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "customer",
+    "text": "Oh, well, what?"
+  },
+  {
+    "turn_id": 91,
+    "speaker": "agent",
+    "text": "You can leave it at [TIME] in [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "customer",
+    "text": "I can schedule you a different time and [DURATION] for [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "agent",
+    "text": "Well, if I can do it all at once, then I can choose a different [DURATION] like next [DURATION]."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "customer",
+    "text": "Okay, let me check their schedule."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "agent",
+    "text": "Just a second."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "customer",
+    "text": "Yeah, that way you only have to come one time."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "agent",
+    "text": "Y."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "customer",
+    "text": "Bear with me just a minute."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "agent",
+    "text": "We'll get you set up."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "customer",
+    "text": "Is there a particular [DURATION] next [DURATION] that would work best for you?"
+  },
+  {
+    "turn_id": 103,
+    "speaker": "agent",
+    "text": "Friday."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "customer",
+    "text": "Friday, yes, ma am."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "agent",
+    "text": "Okay, I have a [TIME] [TIME] or [TIME] next Friday."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "customer",
+    "text": "Let me make sure that oro side of the office is open."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "agent",
+    "text": "You."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "customer",
+    "text": "Yes, it's open too."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "I can do the [TIME] on Friday."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "Okay, Just let me move some of these appointments over real quick and we'll get you set up and you can do everything at one time."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "Sorry, my computer is just a little bit slow here, but we're getting taken care of here."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "customer",
+    "text": "Oay."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "agent",
+    "text": "So we're doing [TIME] [TIME] [TIME] and I'll put this one here."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "agent",
+    "text": "It just [DURATION] [DURATION] [DURATION], ma'am, and I'll be done."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "customer",
+    "text": "I just got to schedul the free oro."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "agent",
+    "text": "Okay, I'm sorry taking too long, but you're going to get it all done at one time."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "customer",
+    "text": "It's probably going to take about [DURATION] [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "But you'll get everything done."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "agent",
+    "text": "Can I have your phone number again, please?"
+  },
+  {
+    "turn_id": 124,
+    "speaker": "customer",
+    "text": "I'm sorry."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "agent",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "customer",
+    "text": "Well, I'm glad we got you one that's closer to you then, too."
+  },
+  {
+    "turn_id": 127,
+    "speaker": "agent",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "agent",
+    "text": "It worked out."
+  },
+  {
+    "turn_id": 130,
+    "speaker": "customer",
+    "text": "See?"
+  },
+  {
+    "turn_id": 131,
+    "speaker": "agent",
+    "text": "Things work out."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "customer",
+    "text": "Okay, so I have you scheduled for next Friday."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "agent",
+    "text": "That's going to be [DATE] [DATE] at [TIME] in our office on [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "customer",
+    "text": "And I'GOING to send you a text message in a little bit."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "agent",
+    "text": "It'going to have the time and date of the appointment on it and the address and phone number to the office."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 137,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "agent",
+    "text": "Is there anything else I can help you with?"
+  },
+  {
+    "turn_id": 141,
+    "speaker": "customer",
+    "text": "No, ma'am."
+  },
+  {
+    "turn_id": 142,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "customer",
+    "text": "Thank you for choosing [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "agent",
+    "text": "You have a nice rest of your [DURATION]."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "customer",
+    "text": "You too, ma'am."
+  },
+  {
+    "turn_id": 146,
+    "speaker": "agent",
+    "text": "By."
+  }
+]

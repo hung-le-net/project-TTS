@@ -1,0 +1,807 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Please hold while your call is being transferred to [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION] [ORGANIZATION], this is [PERSON_NAME], how can I help you?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "Hi [PERSON_NAME], my name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "I have a question."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "I'm looking for [ORGANIZATION] Tundra, new or preferably used, but [DURATION] [DURATION] old plug body style."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "Do you guys have anything in stock?"
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Hi [PERSON_NAME]."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "Yeah, let me see what I have in stock here."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "And I'm sorry, I didn't catch if you were looking for new or open to certified used."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "Well, yes, I'm open to if you have a [DATE_INTERVAL] for example, the new model but used."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "customer",
+    "text": "I would prefer that because I don't mind having few miles on it."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "But if you do not have any pre owned ones then."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "New, what new do you have?"
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "New?"
+  },
+  {
+    "turn_id": 14,
+    "speaker": "customer",
+    "text": "Okay, I'm sure that we do have some great used ones."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "agent",
+    "text": "Let me pull up our inventory here."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "customer",
+    "text": "And [PERSON_NAME], have you shopped with B version [ORGANIZATION] before?"
+  },
+  {
+    "turn_id": 17,
+    "speaker": "agent",
+    "text": "No."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "customer",
+    "text": "Okay, no worries."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "I'm glad that we're talking then."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "Like I said, my name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "I'm not a [OCCUPATION], I'm really just here to help you shop."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "Is the number you're calling from, the callback number in case we get disconnected?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "Yes, please."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Okay, thank you."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "So [PHONE_NUMBER]."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "I'm sorry, [ORGANIZATION] Tundra."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "We have, we have a [DATE_INTERVAL] and a [DATE_INTERVAL] owner lot currently that are available for a test drive."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "Did you want to come check these out today or tomorrow?"
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Well, [DATE_INTERVAL] and [DATE_INTERVAL], they're the previous body style, correct?"
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Sorry, one more time."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "The [DATE_INTERVAL] is the previous body style."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "The new body came out in [DATE_INTERVAL] I think, right?"
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "Or am I. Oh, am I not correct?"
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "Correct, you're correct."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "Yeah, the new body style was out in [DATE_INTERVAL]."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "Okay, well then in that case I'm interested."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "If you don't have any [DATE_INTERVAL] ones, then what new do you have?"
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "I'm not interested in SR5, I'm interested in limited or platinum, whatever they're called."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "Okay, got it."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "So the [DATE_INTERVAL] is actually a Tundra Platinum."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "So that would be a good one to look at."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "I do have a lot of great Tundras, like Limited Platinum, [DATE_INTERVAL] edition."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "They're on their way available for a deposit."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Would you be interested in putting a deposit on one of these?"
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "What is the turnaround time currently for expected delivery time?"
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "About it looks like [DURATION] [DURATION] [DURATION] [DURATION] for some of them."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Oh, [DURATION] [DURATION] [DURATION] [DURATION], that's not bad."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "But all the specs and everything all are available to look at how can I get that information at least so I can see what's coming?"
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "Is it possible or do I need to come in for that?"
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "Because I'm in [LOCATION] right now."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "You're aware."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "I'm sorry."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Well, how can I get that information as far as what do you have coming or what's available?"
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Ideally I'm looking for."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Ah, yes, okay."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "I'm sorry for interrupting."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "Go ahead."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Oh, I apologize."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "Go ahead."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "Let me know what you're looking for."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "For Tundra, preferably pre owned."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "Have any pre owned new one in white, preferably limited or better not necessarily attached to hybrid, but I would like to consider a hybrid option if available."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "The price difference between gasoline and hybrid."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "And if you could text me a link or something where I can take a look at what the thing do you think?"
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "Ideally I would like to turn in one of my vehicles as an exchange or down payment."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "Do you have, do you accept stars?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "I have a [ORGANIZATION] [DATE_INTERVAL] [ORGANIZATION] Camry."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "Yes, absolutely."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "Yeah, we're always looking for pre owned vehicles so we'd be happy to give you a great trade value for yours."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "customer",
+    "text": "But yes, I will send you a few links to the ones that we have coming that are available for a deposit."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "agent",
+    "text": "Should I send it?"
+  },
+  {
+    "turn_id": 75,
+    "speaker": "customer",
+    "text": "Okay, sounds good."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "agent",
+    "text": "And assuming that you like what I'm sending you, were you planning on coming by today or tomorrow to get a trade trade for the Camry and then maybe put a deposit?"
+  },
+  {
+    "turn_id": 77,
+    "speaker": "customer",
+    "text": "Well, not today for sure and not tomorrow for sure."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "agent",
+    "text": "I am sort of turning in my car right now to a detailed place."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "customer",
+    "text": "So you know, they clean it up and they said tomorrow I would be able to pick it up."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "agent",
+    "text": "So only before probably Friday, Friday or Saturday."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "customer",
+    "text": "Are you guys open on Saturdays?"
+  },
+  {
+    "turn_id": 82,
+    "speaker": "agent",
+    "text": "Oh yes, absolutely."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "customer",
+    "text": "And we're also open Sunday."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "Okay, well as I said, I'm in [LOCATION] currently."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "customer",
+    "text": "So when we're returning to [LOCATION] after my stuff is done here."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "So [DURATION] [DURATION] [DURATION] [DURATION] I need at least to get the car detailed and have your way."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "So hopefully nothing will change by then."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "But then yeah, whatever you have, I will look at it and see if anything catches my eye."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "And then how do you guys operate in general?"
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "Because different dealerships I heard do it differently."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Do you mark up MSRP by a certain amount or do you not mark up it?"
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "How do you go about that?"
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "So we are usually at MSRP the only markup is going to be added accessories and usually those accessories include the full expel, which is clear film that goes on the paint to protect the paint, window taking and wheel lock."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "So that's really it."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "And I will include that."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "I'll include the prices and what the accessories are on the vehicle."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "So you're aware of all the prices."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "But those accessories are pre installed already and that price is pretty much that price is the price because they already are there or are those optional, any of them or do you actually do it after you receive them?"
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "So the added accessories are actually installed once the vehicle arrives on the ground, but they are not optional."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "They have been hand picked and will be installed when the vehicle does arrive."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "Okay, all right, well, thank you very much."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "Send me that information."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "I'm interested in seeing what you guys have."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "Another sort of final question."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "When I look at those links, will I have."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "Will there be any indication as far as which model is coming in, when or from where, or just."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "Or I would need to call you probably and discuss the one that I like separately, I guess."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "The links I'm going to send you are spec sheets to the specific vehicle, specific trim, specific packages to the car."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "customer",
+    "text": "And if texting is better, you can also text me and we can keep in touch that way."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "agent",
+    "text": "But phone call is good too."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "You can let me know what vehicle you'd like to specifically hold."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "But you know, the deposit is first come, first serve."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "So if you're interested in just all of them and want to decide when you're here, that works as well."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "customer",
+    "text": "Okay, well, wonderful."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "agent",
+    "text": "Thank you so much."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "customer",
+    "text": "I will."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "agent",
+    "text": "I'm looking forward to seeing your text message."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "customer",
+    "text": "Sounds good, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "agent",
+    "text": "And then one last question for you."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "What is your last name?"
+  },
+  {
+    "turn_id": 121,
+    "speaker": "customer",
+    "text": "Last name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] oh."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "customer",
+    "text": "Since I have you on the phone, I'm also curious to know."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "agent",
+    "text": "I would like to ideally use my vehicle, a return vehicle, as a down payment."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "customer",
+    "text": "That can be done."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "agent",
+    "text": "Right?"
+  },
+  {
+    "turn_id": 127,
+    "speaker": "agent",
+    "text": "What documentation would I need to bring so I don't have to go back and forth and just have everything ready to apply for financing for the remaining balance."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "customer",
+    "text": "Do you know what, what I need to have."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "agent",
+    "text": "I don't want to really stop."
+  },
+  {
+    "turn_id": 130,
+    "speaker": "customer",
+    "text": "I'm currently financed to [ORGANIZATION]."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "agent",
+    "text": "I have another [ORGANIZATION], but from [ORGANIZATION], I don't remember."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "agent",
+    "text": "And so I, you know, I've been with you guys for some time, not with your particular dealership."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "customer",
+    "text": "What do I need to do?"
+  },
+  {
+    "turn_id": 134,
+    "speaker": "agent",
+    "text": "No, no, it can be paid off, can be sprayed off."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "customer",
+    "text": "Oh, okay."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "customer",
+    "text": "It's just I have financing history through [ORGANIZATION] [ORGANIZATION] as well and still on another vehicle."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "agent",
+    "text": "But for my financial documentation, what do I need to bring in order to sort of have everything on this pipeline?"
+  },
+  {
+    "turn_id": 139,
+    "speaker": "customer",
+    "text": "I'm not sure about the whole list."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "agent",
+    "text": "But I can also find out for you and text you what it would be that you need to bring for financing."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "Or maybe if there is a way to get pre qualified before I even come in, I can provide all preliminary information so you guys can run the numbers."
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "I guess."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "And I know that I'm coming in just to pick it up."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "I'm still buying it blindly."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "agent",
+    "text": "For me."
+  },
+  {
+    "turn_id": 146,
+    "speaker": "customer",
+    "text": "It doesn't matter to sit there for [DURATION] [DURATION] at the dealership and just wait for them to do it."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "agent",
+    "text": "I can just."
+  },
+  {
+    "turn_id": 148,
+    "speaker": "agent",
+    "text": "Can you find out from your [ORGANIZATION] [ORGANIZATION] if I can get pre approved before I even come in?"
+  },
+  {
+    "turn_id": 149,
+    "speaker": "customer",
+    "text": "Because the value of the vehicle is secondary."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "agent",
+    "text": "You know, down payment is sort of pretty much plus or minus estimated to be whatever it needs to be."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "customer",
+    "text": "And if my tariff value is too low, I'm not going to just."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "agent",
+    "text": "I'm still going to probably go with the deal on some other terms, but I will be prepared for it."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "agent",
+    "text": "Please find out and let me know what I need to bring with me."
+  },
+  {
+    "turn_id": 155,
+    "speaker": "customer",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 156,
+    "speaker": "agent",
+    "text": "Or if I can be pre qualified."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "customer",
+    "text": "Thank you so much."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "agent",
+    "text": "Of course."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "customer",
+    "text": "Thank you, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 160,
+    "speaker": "agent",
+    "text": "We'll keep in touch."
+  }
+]

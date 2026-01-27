@@ -1,0 +1,812 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] in the [ORGANIZATION] [ORGANIZATION] for [LANGUAGE], for [LANGUAGE], thank."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "My name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "How can I help you?"
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Yes, I'm sorry, I didn't catch your name, please?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Yes, my name is."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "Can help you?"
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Are you at [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "Are you in the call center, please?"
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "I'm in the [ORGANIZATION] [ORGANIZATION], ma'am."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "The office is no longer sub call in the clinics on Friday."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "Is there something that I could assist you with?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "Oh, yes, thank you."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "And your name?"
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "I didn't hear your name because I'm driving and I'm so sorry."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "What was your name, please?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "No worries."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "My name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "Oh, thank you, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "Now I can hear you better because I took the phone up to my ear."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "I'm not supposed to."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "I didn'put it into my ear, but I put it Get a little closer to my."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "I driving."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "Thank you, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Oay, [PERSON_NAME], are you in [LOCATION]?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "You in."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "Are you in [LOCATION]?"
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "Yes, ma'am, I in [LOCATION]."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "Oh, wonderful."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Now, [PERSON_NAME], I have an appointment to go into the office and I a little Im in the dark as to when I need to come in."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Do you mind checking to see where my appointment is going to be, please?"
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "Yes, ma'am, I sure can."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "Give me one second."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "Thank you so much."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "You're welcome, ma'am."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "Could you provide me with your date of birth, ma'am?"
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "You said [DATE_OF_BIRTH], ma."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "Did you say [DATE_OF_BIRTH] or [DATE_OF_BIRTH]?"
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "I said [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Was it [DATE_OF_BIRTH]?"
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Was it [DATE_OF_BIRTH]?"
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "It's the [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Sorry."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "And your last name, ma'am?"
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "And your first name, ma'am?"
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "So I see you scheduled for next Friday at [TIME] O."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Thank you so much."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "I wanted to ask you a question, please."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Do you know."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Oh, thank you."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "Do you know."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "See, I'm going in to talk to another."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Some other people are coming into their office because they're going to talk to me about a [MEDICAL_PROCESS] [MEDICAL_PROCESS] and because they don't offer them, they don't do it at their office."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "Other [LOCATION] do, some other ones."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "And I want to find out if there's another date that they will be having someone come into their office."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "And unfortunately, I don't have that information."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "They don't provide us with that type of information only because we work in scheduling with the office."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "So I don't have access to that information."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "But hopefully."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "Would you like for me to send an email requesting a call back for you, ma'am?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "By any chance?"
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "Well, let's do this."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "You said it's not today, but it's next Friday?"
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "Yes, ma'am, that is correct."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "Well, what I can do, hopefully I can make it."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "But you know, see, one problem is that I work and I've really got to be at work."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "So I don't know if that's going to work for me."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "But do you think."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Do you know if the other."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "Do you know which other [ORGANIZATION] [ORGANIZATION] do offer the [MEDICAL_PROCESS]?"
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "No, ma'am, I don't."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "Unfortunately, they don't give us a list."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "Don't worry about that."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], this is a deal."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "customer",
+    "text": "So you think I still have time to call the office on Monday or Tuesday so I can let them know?"
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "And they'll also be open tomorrow from [TIME] to [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "O."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "Okay, awesome."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "Well, I will just call them hopefully tomorrow or Monday or Tuesday, and I'll just let them know that that Friday may not work for me."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Probably it won't."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "And I'm thinking perhaps what I should do is just wait till anotherill they get someone else to come in another visit from the dental, you know, denture, [MEDICAL_PROCESS] [MEDICAL_PROCESS] [MEDICAL_PROCESS], and if not, maybe I could go to their office, you know, or something."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "That's better timing."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "Y."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "You know what I'm saying?"
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "Yes, ma'am, I definitely understand what you're saying."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "But hopefully once you're able to speak to someone in the office, they're able to get everything situated for you."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "O, that sounds awesome."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "Okay, well, I'll just call that."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "And you don't really have to say anything to them because maybe I can make it."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "Perhaps."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "But if not, then at least I can."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "I have time to call them, you know?"
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "All right, well, listen, you've been extremely nice."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "I really, really appreciate it."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "To me and you have a very blessed day."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "Thanks so much, us."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "agent",
+    "text": "You as well."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "customer",
+    "text": "You have a good day."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "agent",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 113,
+    "speaker": "customer",
+    "text": "O."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "Thank you, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "customer",
+    "text": "You and [PERSON_NAME]."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "agent",
+    "text": "Do I call this number if I want to call their office on Monday?"
+  },
+  {
+    "turn_id": 117,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "It just rolls over to us when they're not able to get to the phone."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "customer",
+    "text": "So you're good with the number that you have?"
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "Just call that same exact number back."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "agent",
+    "text": "Thank you so much."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "customer",
+    "text": "Real sweet."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "agent",
+    "text": "God bless."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "agent",
+    "text": "Enjoy your day."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "customer",
+    "text": "Weekend."
+  },
+  {
+    "turn_id": 127,
+    "speaker": "agent",
+    "text": "You as well, ma'am."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "customer",
+    "text": "Happy [EVENT] [EVENT]."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "agent",
+    "text": "Oh, thank you."
+  },
+  {
+    "turn_id": 130,
+    "speaker": "customer",
+    "text": "You."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "agent",
+    "text": "Are you a mom, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 132,
+    "speaker": "customer",
+    "text": "Oh, you sound like."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "agent",
+    "text": "You sound so sweet."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "customer",
+    "text": "You just have one or two coup them'too oh, wow."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "agent",
+    "text": "Is a lot of work."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "customer",
+    "text": "It is isn't it?"
+  },
+  {
+    "turn_id": 137,
+    "speaker": "agent",
+    "text": "Yes, it is."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "customer",
+    "text": "But it's worth it."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "I know."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "customer",
+    "text": "Well, happy [EVENT] [EVENT] to."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "And when is [EVENT] [EVENT]?"
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "Is it this [DURATION] or next [DURATION]?"
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "Is Sunday."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "agent",
+    "text": "Is this Sunday?"
+  },
+  {
+    "turn_id": 146,
+    "speaker": "customer",
+    "text": "Yes, ma'am."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "agent",
+    "text": "Oh, I didnt know that."
+  },
+  {
+    "turn_id": 148,
+    "speaker": "customer",
+    "text": "Oh, okay."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "agent",
+    "text": "Well, I got to go get cards then."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "agent",
+    "text": "Im not a mom or anything, but still, Im going to go get cards for my auntie."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "agent",
+    "text": "Well, listen, thank you so much."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "customer",
+    "text": "And Happy Blessed [EVENT] [EVENT]."
+  },
+  {
+    "turn_id": 155,
+    "speaker": "agent",
+    "text": "You deserve it."
+  },
+  {
+    "turn_id": 156,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "customer",
+    "text": "Have good."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 160,
+    "speaker": "customer",
+    "text": "You too."
+  },
+  {
+    "turn_id": 161,
+    "speaker": "agent",
+    "text": "Bye."
+  }
+]

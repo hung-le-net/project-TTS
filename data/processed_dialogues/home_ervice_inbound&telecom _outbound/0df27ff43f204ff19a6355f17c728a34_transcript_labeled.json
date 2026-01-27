@@ -1,0 +1,242 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION], or we fix your pains to talk to a live [OCCUPATION] [OCCUPATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "All calls are recorded for quality and training purposes."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "Hi, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "I just called a second ago and talked to a lady."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "I'm trying to get a quote for my car and she needed the VIN number and I went out and got it real quick."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "So my name is [PERSON_NAME] [PERSON_NAME], and that's what I'm calling for."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "Okay, understood."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "I'll grab that information and assist with that for you."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "So it's [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] and is the last name."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "Is it [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 14,
+    "speaker": "customer",
+    "text": "No, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "agent",
+    "text": "No."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "customer",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "And what was your phone number, please?"
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "And what was your zip code, please?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "[LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "And then the VIN number."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "What was the VIN number for the vehicle?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "It's the number [VEHICLE_ID]."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "[VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID]."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "The number [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID]."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "[VEHICLE_ID]."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "And il repeat that back to make sure I caught it correctly."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "So that was [VEHICLE_ID]."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "[VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID]."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "[VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID], [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID] [VEHICLE_ID]."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "[VEHICLE_ID]."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "All right, so I do want to thank you for giving us a call here at [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "What I'm going to do is get that over to my [OCCUPATION] then so you can follow back up with that price and information for you, okay?"
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "All right, that sounds good."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "You're very welcome."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Have a great day."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "You, too."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "By."
+  }
+]

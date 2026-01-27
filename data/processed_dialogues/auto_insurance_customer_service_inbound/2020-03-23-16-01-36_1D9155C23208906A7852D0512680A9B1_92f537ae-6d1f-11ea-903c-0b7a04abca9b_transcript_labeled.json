@@ -1,0 +1,507 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "This call may be recorded for quality assurance."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "My name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Are you calling in today seeking coverage for a new auto insurance quote policy?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Excuse me."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "Yeah, I'm calling to find a quote."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "Okay, we can help you with that."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "My job here is to input and verify some information so I get you over to the right [OCCUPATION] [OCCUPATION]."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "Let me start with having your first name, please."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "Said [PERSON_NAME]."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "[PERSON_NAME], [PERSON_NAME]."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "[ORGANIZATION], [ORGANIZATION], [ORGANIZATION], [ORGANIZATION]."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "customer",
+    "text": "Is it [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "agent",
+    "text": "[ORGANIZATION] [ORGANIZATION], [ORGANIZATION], [ORGANIZATION] [ORGANIZATION] [ORGANIZATION], [ORGANIZATION]."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Your zip code, please?"
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "Okay, and who do you have your insurance with today?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "[ORGANIZATION]."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "And how long have you been insured continuously with [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "Well, [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "And how much are they charging you per [DURATION]?"
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "Because I live with my parents."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Well, I. Yeah."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "And I have your date of birth, please."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "Said [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "Okay, fellow [ZODIAC_SIGN], my birthday is on the [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "customer",
+    "text": "Oh, yeah."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "customer",
+    "text": "My aunt's birthday is the [DATE_OF_BIRTH], too."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "agent",
+    "text": "Awesome."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "customer",
+    "text": "Best day of the [DURATION]."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "agent",
+    "text": "But, you know, I'm slightly biased on that one."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "customer",
+    "text": "Yeah, yeah."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "agent",
+    "text": "So in the past [DURATION] [DURATION], have you had any DUIs, SR22s, or at fault accidents?"
+  },
+  {
+    "turn_id": 45,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "agent",
+    "text": "Okay, how about two or more tickets?"
+  },
+  {
+    "turn_id": 47,
+    "speaker": "customer",
+    "text": "Nope."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "agent",
+    "text": "Definitely help with those rates."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "customer",
+    "text": "I'm just about done here."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "customer",
+    "text": "He said we're looking for one vehicle."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "Already answered that one."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "Just give me one second."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "My computer been acting like it's a Monday or something."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "agent",
+    "text": "And are you seeking coverage above the state minimum?"
+  },
+  {
+    "turn_id": 57,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "customer",
+    "text": "Sound a little reluctant on that one."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "And would you say that your credit is excellent, good, fair or poor?"
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "It's not real good, but it's not as bad as it could."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "I mean, not as bad as what I thought it was."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "That's always a positive."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "That's always a positive."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "It's bad, but it's not bad."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "But yeah."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "All right, and last question is, have you or your [MARITAL_STATUS] ever honored to be served in [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "No."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "I'm [MARITAL_STATUS]."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "I'm sorry to hear that."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Goodness."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "I said we appreciate life as it is every single day."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Take it for granted."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "With this [MEDICAL_CONDITION], who knows?"
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "Exactly."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "Yeah, hopefully."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "Hopefully."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "This definitely wakes some people up."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "customer",
+    "text": "Or may other people die?"
+  },
+  {
+    "turn_id": 89,
+    "speaker": "agent",
+    "text": "I think so."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "customer",
+    "text": "Oh, that's."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "agent",
+    "text": "I think people are kind of crazy, though."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "customer",
+    "text": "Getting."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "agent",
+    "text": "Yeah, you're right."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "customer",
+    "text": "And you're being polite, but I'm gonna leave that one alone."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "agent",
+    "text": "Yeah, yeah."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "customer",
+    "text": "[PERSON_NAME], toilet paper and [PERSON_NAME]."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "But Yeah."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "customer",
+    "text": "Not good it."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "agent",
+    "text": "Hello, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "customer",
+    "text": "You have been kicked from this conference."
+  }
+]

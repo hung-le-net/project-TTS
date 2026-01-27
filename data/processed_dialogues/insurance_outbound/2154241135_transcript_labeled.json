@@ -1,0 +1,627 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Hi, miss, this is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "How are you doing today?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "That sounds great."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "God bless you."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "So the."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "The reason of my call is to let you know that your Medicare has been upgraded and you are receiving some additional Medicare benefits at no additional cost."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "So I hope that sounds good to you."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "So much for this upgradation."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "I do believe you have Medicare with part A and part B active, right?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "I guess I don't have the card with me."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "I don't have a card with me, so I don't know."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "And I also do believe you make your own decisions regarding Medicare."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "Yes, I do."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Okay, so your last name spell says [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME], right?"
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "How do you spell your first name?"
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "Okay, I got it right here."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "Can you please help me out?"
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "What's your date of birth?"
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "What's your birth date?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "What's your date of birth?"
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH] [DATE_OF_BIRTH], [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "[DATE_OF_BIRTH], [DATE_OF_BIRTH], [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "Have you made any kind of changes in your Medicare plan in past [DURATION] [DURATION]?"
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "And I do have your mailing address with me, which is [LOCATION] [LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "And your zip code is [LOCATION], right?"
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "So, miss, the last thing I would like to ask you, do you have dead red, blue and white Medicare card with you?"
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "I don't have that with me now."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "Okay, where, where is the card?"
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "Like, is it possible for you to grab it?"
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "Can you grab the card?"
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "What kind of card you send there?"
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Red, blue and white Medicare card."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Do you have that?"
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "Everything's locked up, miss."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Y' all have all this information."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Anyway, y' all have all this information."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "I'm asking you, do you have that card handy?"
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "Do you have Medicare card with you?"
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "I said everything's locked up."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Everything's locked up."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "Do you understand that?"
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "And like I said, I don't understand you calling me because y' all have all this information."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "I'm [PERSON_AGE] years old, so I know y' all have this information."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "So, miss, like, do you remember your [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "Do you remember Your [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "[US_SOCIAL_SECURITY_NUMBER]."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "Miss, what I will do now, I will get your call connected to the [OCCUPATION] [OCCUPATION] [OCCUPATION]."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "agent",
+    "text": "He is from your own city with the same course."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "customer",
+    "text": "He will explain you all these benefits in detail and he will let you know when and how you will receive the paperwork."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "And like, he will not take your much time."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "It will just take your precious [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "So, miss, before transferring your call, I would like to Ask you."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "You have understood this call is all about your additional Medicare benefits, right?"
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "Here we go."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "Your call is getting connected."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "customer",
+    "text": "Very strong quote."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "Thank you for holding."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "You reach the Medicare basics."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "This is [OCCUPATION] [OCCUPATION] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "On a recorded line."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "I have Ms. [PERSON_NAME] online."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "Her zip code is [LOCATION]."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "She is not having her Medicare card with her, but she do remember her [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "So you may take over the call."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "Good afternoon, Ms. [PERSON_NAME]."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "customer",
+    "text": "How are we doing today?"
+  },
+  {
+    "turn_id": 80,
+    "speaker": "agent",
+    "text": "Okay, so what we're going to be doing today, Ms. [PERSON_NAME], is something called a Medicare review."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "We're going to take a look at your current insurance and make sure you are on the best fitting plan for your needs this year and see if we can't get some money back on your [ORGANIZATION] [ORGANIZATION] deposit."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "agent",
+    "text": "Now, is that your understanding of the cost?"
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "I appreciate that."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "I worked all my life."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "And now, to be honest with you, I know it's none of your business, but I remember when I was young, working, the girls used to pick at me because I was out there working and they was on welfare and I was out there working."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "Now I understand why they was picking at me."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "So what I'm going through, they didn't have to go through that."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "customer",
+    "text": "Yep."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "agent",
+    "text": "It's not really fair."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "So what I'm going to try to do is I'm going to try to do my best to help you here."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Now, Ms. [PERSON_NAME], I'm legally required to ask you this question here, and I do apologize."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "It's very insensitive."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "agent",
+    "text": "Do you make your own health care decisions?"
+  },
+  {
+    "turn_id": 94,
+    "speaker": "customer",
+    "text": "Yes, I do."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "agent",
+    "text": "I figured you did just one of those things they make me ask."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "So what I'm going to do for you here now, first is I'm going to pull up your Medicare red, white and blue file."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "Do you have your red, white and blue card with you?"
+  },
+  {
+    "turn_id": 98,
+    "speaker": "customer",
+    "text": "No, I do not."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "agent",
+    "text": "All right, so give me one second here."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "I'm going to pull up, I'm going to go into Medicare and we're going to have to look this up by your [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "Give me one second."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "agent",
+    "text": "Ms. [PERSON_NAME], will you verify your [ORGANIZATION] [ORGANIZATION] number, please?"
+  },
+  {
+    "turn_id": 104,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "agent",
+    "text": "Oh, I thought you was giving it to me."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "customer",
+    "text": "Oh, no, I'm legally, I'm required to ask you before I confirm anything."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "agent",
+    "text": "[US_SOCIAL_SECURITY_NUMBER], [US_SOCIAL_SECURITY_NUMBER] [US_SOCIAL_SECURITY_NUMBER] [US_SOCIAL_SECURITY_NUMBER], [US_SOCIAL_SECURITY_NUMBER]."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "customer",
+    "text": "I'm sorry, ma' am, I lost you in static."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "You know what?"
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "I don't feel confident."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "I'm not [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "No, there's no way."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "I understand, ma' am now."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "Now, without your [ORGANIZATION] [ORGANIZATION] number because you don't have a Medicare card with you, I can't pull up your Medicare file."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "agent",
+    "text": "And I can also, after I pull up your Medicare file, I can give you your Medicare number so you don't have to do the whole [ORGANIZATION] [ORGANIZATION] number thing."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "customer",
+    "text": "But right now, we just need to do it one time and then we can get right on through it."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "agent",
+    "text": "I can't give you the help without pulling up your Medicare file, and you can't get the Medicare file."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "You said I can't pull up the Medicare file without confirming your [ORGANIZATION] [ORGANIZATION] number with you, and that's."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "customer",
+    "text": "You know, this don't make sense, what you're saying, because if you call me, y' all supposed to have all that information anyway."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "customer",
+    "text": "And, and."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "agent",
+    "text": "But I'm legally not allowed to utilize it unless I confirm that it is your information with you."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "agent",
+    "text": "And the only way to confirm that it is your information is to ask you of the."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "customer",
+    "text": "Once you tell me, then I can let you know whether it's the mind information or not."
+  }
+]

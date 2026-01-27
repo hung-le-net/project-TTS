@@ -1,0 +1,927 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Class [OCCUPATION], we fix your paying this."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "Yes, I was just calling to see if I can possibly have somebody come out and replace one of our window."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "customer",
+    "text": "Bedroom windows."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "Yeah, so we can do that."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "If you have any kind of measurements and information, I can give you an app approximate quote over the phone and then we can schedule a [OCCUPATION] out there to do the final measurements and price to let you know and."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "Okay, it's about [DURATION] [DURATION] [DURATION] [DURATION] for the glass to come in and install back into the."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "Oh, okay."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "Yeah, I do not have the measure mints I guess for the window."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "Okay, that's not a problem."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "I can go ahead and schedule a measurement and the estimates at the same time."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "Oay we do charge a $[MONEY_AMOUNT] service call to do the measurement."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "Needs to be secure for the appointment to be confirmed."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "However, that [MONEY_AMOUNT] goes towards the final cost of the project."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "Should you go ahead and move forward with that?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "Yes, that's fine."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "And I'm sorry, what part of the valley did you say you were located in?"
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "I'm in [LOCATION]."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "In [LOCATION]."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "Okay, let me y see."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "Let me just get some information from me real quick."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "Can I get your first and last name?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "customer",
+    "text": "It's [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "customer",
+    "text": "And how did you come across [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "agent",
+    "text": "We are actually in the process of selling our home, so our [OCCUPATION] gave us your guys information."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "customer",
+    "text": "Okay, awesome."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "And who is that [OCCUPATION]?"
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "It is [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "It's [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "All right, awesome."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "And then let me go ahead and get this in here."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "What is the address over there?"
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "It is [LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "[LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "It's in [LOCATION] and then it's [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "customer",
+    "text": "And you said it was the bedroom window?"
+  },
+  {
+    "turn_id": 38,
+    "speaker": "agent",
+    "text": "Yeah, it's one of our kids bedrooms upstairs."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "customer",
+    "text": "All right, is the se has it failed on it or is it cracked out or."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "agent",
+    "text": "It is basically cracked from the bottom corner going all the way up to the top."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "customer",
+    "text": "It almost looks like a rainbow shape crack."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "agent",
+    "text": "Okay, not a problem."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "customer",
+    "text": "The was up to bedroom."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "agent",
+    "text": "Is it a window that slides open left to right or does it go up and down?"
+  },
+  {
+    "turn_id": 45,
+    "speaker": "customer",
+    "text": "Yes, it slides from left to right."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "customer",
+    "text": "Okay, and is it the venting portion of that window or just the stationary?"
+  },
+  {
+    "turn_id": 48,
+    "speaker": "agent",
+    "text": "Oh, what?"
+  },
+  {
+    "turn_id": 49,
+    "speaker": "customer",
+    "text": "Okay, so I'm assuming it's the stationery because the venage I'm assuming is the one that has a screen on the side."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "The one that opens and closes itself."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "customer",
+    "text": "The stationery would be the one that just days put it doesn't open up."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "Okay, so it's the stationary one."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "And then are there any grids inside the glass that are decor at all?"
+  },
+  {
+    "turn_id": 55,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "agent",
+    "text": "And do you know what [DURATION] the home was built?"
+  },
+  {
+    "turn_id": 57,
+    "speaker": "customer",
+    "text": "It's [DURATION] [DURATION] old, so [DATE_INTERVAL]."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "[DATE_INTERVAL], [DATE_INTERVAL], [DATE_INTERVAL]."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "customer",
+    "text": "Okay, awesome."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "And then let me go ahead and place you on just a brief hold to speak to dispatch and see when he will be in that area."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "Are you guys looking for a specific time frame?"
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "No, he can come out anytime."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "Okay, hold on one moment."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "I will speak to hold."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "Right."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "Thank you very much for calling."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "Please continue to hold and we will be with you shortly."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "Thank you for waiting."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "We apologize for the inconvenience and are working as quickly as possible to take your call."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "Thank you for your call."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "Please continue to hold and we will be with you shortly."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], are you there?"
+  },
+  {
+    "turn_id": 75,
+    "speaker": "customer",
+    "text": "Yes, sorry about that."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "agent",
+    "text": "So it looks like right now he'll be in the area."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "customer",
+    "text": "[DATE], [DATE]."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "If we have a cancellation, we can give you a call and let you know if you're available sooner than that."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "Okay, yeah, that works."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "I can do that."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "Okay, so [DATE] [DATE] [DATE], we were looking at a time block between [TIME] and [TIME]."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "Would that be okay?"
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "Yeah, that's perfect."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "And we just asked to secure the appointment since they are so far out of the $[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "We can secure that over the phone now or I can send you the pay link through your email."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "Whichever one you're comfortable with, I can give it to you over the phone."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "All right, so let me just in here and make sure I have this."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "So you said this was upstairs window?"
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Is there anything hindering his way of installing this?"
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "I don't know."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "Is there like a roo line or anything underneath the window?"
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "So do you mean like inside the house or outside?"
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "So if he has to, for whatever reason, measure or install it from the outside, because that's where the stops were."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "It was placed installed from the outside in or whether it's inside out."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "If there is a roof line underneath this window that he could stand on, will he need a ladderis need be he."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "Yeah, yeah, he'll need a ladder."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "It's on the [LOCATION] [LOCATION] of the house."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "Hopefully."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "customer",
+    "text": "Unfortunately, it just is like a straight shot up."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "agent",
+    "text": "It's like completely straight."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "customer",
+    "text": "Gotcha."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "customer",
+    "text": "And that's fine."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "We just want to make sure."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "I'll just make a note of it."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "And that's not even, you know, if he doesn't."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "We don't really know if it was installed when the house Was built if it was from the outside in or inside out."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "So I just want to make sure that I will go ahead and put that in there."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "customer",
+    "text": "And then what kind of card did you want to put this on?"
+  },
+  {
+    "turn_id": 115,
+    "speaker": "agent",
+    "text": "Oh, do you guys take [NATIONALITY] express?"
+  },
+  {
+    "turn_id": 116,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "agent",
+    "text": "Okay, let me get back card number."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "agent",
+    "text": "It is [CREDIT_CARD_NUMBER], [PERSON_NAME]."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "customer",
+    "text": "I'm sorry."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "agent",
+    "text": "With that, my computer isn toa go as quick as I was."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "[CREDIT_CARD_NUMBER] [TIME]."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "agent",
+    "text": "And then can we start over from there?"
+  },
+  {
+    "turn_id": 124,
+    "speaker": "customer",
+    "text": "[TIME] [CREDIT_CARD_NUMBER]."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "agent",
+    "text": "And is it your name on the card?"
+  },
+  {
+    "turn_id": 127,
+    "speaker": "customer",
+    "text": "Yes, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "customer",
+    "text": "And would you like the receipt emailed over to you?"
+  },
+  {
+    "turn_id": 130,
+    "speaker": "agent",
+    "text": "Yeah, that'be great."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "agent",
+    "text": "Okay, what is your email then?"
+  },
+  {
+    "turn_id": 132,
+    "speaker": "customer",
+    "text": "All right, so [EMAIL_ADDRESS] [EMAIL_ADDRESS]."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "agent",
+    "text": "okay."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "agent",
+    "text": "I was like sound Right."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "agent",
+    "text": "[EMAIL_ADDRESS]."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "customer",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "customer",
+    "text": "So let'do that."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "And then what is the expiration date and the code on the front?"
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "So the expiration is [CREDIT_CARD_EXPIRATION]."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "And then the code is perfect."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "And the billing zip code, it is [LOCATION]."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "agent",
+    "text": "All right, so that is all set."
+  },
+  {
+    "turn_id": 146,
+    "speaker": "customer",
+    "text": "You should have that receipt emailed over to you here any moment."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "customer",
+    "text": "Again, if we do have a cancellation earlier this [DURATION], we will call you and let you know when we can get out there and get that done for you."
+  },
+  {
+    "turn_id": 148,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "agent",
+    "text": "Either way, [PERSON_NAME] will be your [OCCUPATION]."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "customer",
+    "text": "He will give you a call on the way out there at the [PHONE_NUMBER]."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "customer",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "agent",
+    "text": "Then you are all set."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "customer",
+    "text": "Did you have any questions or concerns?"
+  },
+  {
+    "turn_id": 155,
+    "speaker": "customer",
+    "text": "I know this might be like a wide range, but what's the lowest to the highest for price range for a window replacement?"
+  },
+  {
+    "turn_id": 156,
+    "speaker": "agent",
+    "text": "So you have a newer built home."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "customer",
+    "text": "So it's probably going to have a coding on it called Low E366."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "agent",
+    "text": "I mean, honestly, it can range anywhere from [MONEY_AMOUNT] [MONEY_AMOUNT] to $[MONEY_AMOUNT] without having any kind of measurements."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "customer",
+    "text": "We're not really sure, but that would include the install as well."
+  },
+  {
+    "turn_id": 160,
+    "speaker": "agent",
+    "text": "Okay, perfect."
+  },
+  {
+    "turn_id": 161,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 162,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 163,
+    "speaker": "customer",
+    "text": "Just to give you a ballpark, newer homese you can expect just a little bit more of a price range because of that solar coding that they started using in the last few not o."
+  },
+  {
+    "turn_id": 164,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 165,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 166,
+    "speaker": "agent",
+    "text": "Yeah, that makes sense."
+  },
+  {
+    "turn_id": 167,
+    "speaker": "customer",
+    "text": "Okay, awesome."
+  },
+  {
+    "turn_id": 168,
+    "speaker": "agent",
+    "text": "So you are all set."
+  },
+  {
+    "turn_id": 169,
+    "speaker": "customer",
+    "text": "We will see you on the [DATE]."
+  },
+  {
+    "turn_id": 170,
+    "speaker": "agent",
+    "text": "No, I'm not just joking."
+  },
+  {
+    "turn_id": 171,
+    "speaker": "customer",
+    "text": "Was [DATE] [DATE] [DATE]?"
+  },
+  {
+    "turn_id": 172,
+    "speaker": "agent",
+    "text": "Is it [DATE] [DATE] [TIME]?"
+  },
+  {
+    "turn_id": 173,
+    "speaker": "customer",
+    "text": "I mean, if you want me to put me down for the [DATE], that's fine too."
+  },
+  {
+    "turn_id": 174,
+    "speaker": "agent",
+    "text": "That's."
+  },
+  {
+    "turn_id": 175,
+    "speaker": "customer",
+    "text": "Yes, I do have you on dispatch radar."
+  },
+  {
+    "turn_id": 176,
+    "speaker": "agent",
+    "text": "So if the cuna job that we have scheduled right now doesn't go through, you'll be the next one called."
+  },
+  {
+    "turn_id": 177,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 178,
+    "speaker": "agent",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 179,
+    "speaker": "agent",
+    "text": "I appreciate it."
+  },
+  {
+    "turn_id": 180,
+    "speaker": "customer",
+    "text": "Not a problem."
+  },
+  {
+    "turn_id": 181,
+    "speaker": "agent",
+    "text": "You have a good day, all right?"
+  },
+  {
+    "turn_id": 182,
+    "speaker": "customer",
+    "text": "You too."
+  },
+  {
+    "turn_id": 183,
+    "speaker": "agent",
+    "text": "Thank youe."
+  },
+  {
+    "turn_id": 184,
+    "speaker": "customer",
+    "text": "All right, bye."
+  }
+]

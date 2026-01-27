@@ -1,0 +1,1362 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "Hi, this is [PERSON_NAME] from [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "customer",
+    "text": "I'm looking for [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "Yeah, you're right here."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "Oh, hi, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "How was your day?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "Graceful."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "Oh, I'm happy to hear that."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], I'm calling about your healthcare benefit and I just want to ask if you are experiencing pain, back pain, knee pain or shoulder pain, Wrist pain, elbow pain, like that?"
+  },
+  {
+    "turn_id": 10,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "I'm in pain."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "I'm in bed."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "Is it in your back?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Where is the pain located, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "All over my body."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "Can you name one?"
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "Is it your back, elbow, shoulder?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "Yes, my ankles too."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "And your ankle too."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "And you also have shoulder, right?"
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Yes, round."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "And you also have in your elbow?"
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "It hurts."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "How about in your lower back?"
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "Oh, my back."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "Give me 50 times."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "Sometimes I can only live."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "Nothing."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "Okay, [PERSON_NAME], the reason why I asked you the information, because the Medicare had opened a benefit that will help you out with that."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "There is a new benefit recently opened and that is the at no cost braces for your panes."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "And that is at no cost to you."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "You will not pay even a single [MONEY_AMOUNT] at all."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "And that sounds great, right?"
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "It's made of synthetic fabric, comfortable to use, and a machine washable braces."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Great, right?"
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "Right."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Okay, so I'm going to fill a form here so."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "So that we can finish everything."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "First of all, I just want to confirm that your date of birth is [DATE_OF_BIRTH] [DATE_OF_BIRTH], right?"
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "And your day, your address is in [LOCATION] [LOCATION] [LOCATION] [LOCATION], [LOCATION] [LOCATION], [LOCATION], [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Yeah, [LOCATION]."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "And your pain is located in your ankle, wrist, shoulder and elbow."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "All right, in your wrist, what side is aching or you are experiencing pain?"
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "Is it in your lie, in your right, left or both?"
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "Both."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "How about in your elbow, left, right or both?"
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Both."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "And how about in your shoulder?"
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Yes, both."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Also Both."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "All of that are both, right."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "All right, so what is your elbow size?"
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "What is your elbow size?"
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "Is it [PHYSICAL_ATTRIBUTE], [PHYSICAL_ATTRIBUTE], [PHYSICAL_ATTRIBUTE]?"
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "[PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "[PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "How about your shoulder?"
+  },
+  {
+    "turn_id": 65,
+    "speaker": "customer",
+    "text": "Same?"
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "And in your ankle, is it also [PHYSICAL_ATTRIBUTE]?"
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "Can I have your height?"
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "[PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "[PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "customer",
+    "text": "Oh, where [PHYSICAL_ATTRIBUTE] lady is."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "I am just [PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "And can I have your weight, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "I weigh [PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE]."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "[PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE] [PHYSICAL_ATTRIBUTE], right?"
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "All right, in a scale of 1 to 10, can you level the pain that you're experiencing from 1 to 10?"
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "10 is the highest."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "1 is the lowest 10."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "And what is the pain type?"
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "Is it sharp, achy, throbbing or dull?"
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "How frequent do you experience the pain?"
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "Is it constant, daily, occasional, or at night?"
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "Only make me hurt."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "Oh, I'm so sorry to hear that."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "What causes the pain?"
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "Do you have [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "Is it your stress?"
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "Yes, I have apparatus, too."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "[MEDICAL_CONDITION], ma' am, do you have [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Yes, ma' am, I do."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "All right, and what are the things or action or movement that makes the pain worse?"
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "Is it standing, walking, bending?"
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "Sometimes I walk a lot of stores hurt me a bit walking."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "When you walk, it makes the pain worse, right?"
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "Do you have any previous treatment from."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "For this pain that you're experiencing?"
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "Like, are you taking [DRUG]?"
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "[DRUG]?"
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "I take a [DRUG] once in a while."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "It don't do no good and come right back."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "Do you have medical condition like [MEDICAL_CONDITION], [MEDICAL_CONDITION] [MEDICAL_CONDITION] [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "I have [MEDICAL_CONDITION] and [MEDICAL_CONDITION] [MEDICAL_CONDITION] [MEDICAL_CONDITION]."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "Are you taking medication for those?"
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "Are you taking [DRUG] for [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "What is meant for men?"
+  },
+  {
+    "turn_id": 109,
+    "speaker": "customer",
+    "text": "[DRUG]."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "agent",
+    "text": "[DRUG] [MEDICAL_CONDITION] [MEDICAL_CONDITION] [DRUG], Right?"
+  },
+  {
+    "turn_id": 111,
+    "speaker": "customer",
+    "text": "Is it [DRUG] or [DRUG]?"
+  },
+  {
+    "turn_id": 112,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "Okay, and what is the name of your [OCCUPATION]?"
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "Ma' am, do you know the name of your [OCCUPATION]?"
+  },
+  {
+    "turn_id": 115,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "customer",
+    "text": "That magazine, can you spell it?"
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "All right, wait a second."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "agent",
+    "text": "Okay, let me check my system here."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "All right, so I'm just gonna."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "agent",
+    "text": "All right, I'm going to process everything now, okay, so that you can have your braces by this [DURATION]."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 125,
+    "speaker": "agent",
+    "text": "I'm just gonna call you back if there is a new information for you, okay?"
+  },
+  {
+    "turn_id": 126,
+    "speaker": "agent",
+    "text": "I'm gonna call you back to inform you if the braces will arrive in your home, okay?"
+  },
+  {
+    "turn_id": 127,
+    "speaker": "customer",
+    "text": "Yes, sir."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "agent",
+    "text": "All right, so all right, again, what is the name of your [OCCUPATION]?"
+  },
+  {
+    "turn_id": 129,
+    "speaker": "customer",
+    "text": "Do you have a phone number?"
+  },
+  {
+    "turn_id": 130,
+    "speaker": "agent",
+    "text": "No, ma' am."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] say."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] saying."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "agent",
+    "text": "All right, hold on."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME], Right, ma' am."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "customer",
+    "text": "Is it [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]?"
+  },
+  {
+    "turn_id": 140,
+    "speaker": "customer",
+    "text": "Do you know the first name?"
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "Do you spell it like [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]?"
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 145,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]?"
+  },
+  {
+    "turn_id": 146,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "agent",
+    "text": "And what is next?"
+  },
+  {
+    "turn_id": 148,
+    "speaker": "customer",
+    "text": "Just wait a second."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "agent",
+    "text": "All right, so to get your [OCCUPATION] name, I'm going to call my [OCCUPATION] [OCCUPATION] to get the name of your [OCCUPATION]."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 152,
+    "speaker": "agent",
+    "text": "Hold on."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "agent",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 155,
+    "speaker": "customer",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 156,
+    "speaker": "agent",
+    "text": "Hello."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "customer",
+    "text": "Hello."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "agent",
+    "text": "Hi, ma' am."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME], one of the [OCCUPATION] here."
+  },
+  {
+    "turn_id": 160,
+    "speaker": "agent",
+    "text": "How are you today?"
+  },
+  {
+    "turn_id": 161,
+    "speaker": "customer",
+    "text": "I don't look better than I was."
+  },
+  {
+    "turn_id": 162,
+    "speaker": "agent",
+    "text": "I hurting a little bit."
+  },
+  {
+    "turn_id": 163,
+    "speaker": "agent",
+    "text": "Okay, so, [PERSON_NAME], I just want to know here, your [OCCUPATION] [OCCUPATION], ma' am, who take care of you?"
+  },
+  {
+    "turn_id": 164,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 165,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 166,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 167,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] saying."
+  },
+  {
+    "turn_id": 168,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] saying."
+  },
+  {
+    "turn_id": 169,
+    "speaker": "agent",
+    "text": "Right?"
+  },
+  {
+    "turn_id": 170,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 171,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 172,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 173,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] saying."
+  },
+  {
+    "turn_id": 174,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 175,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 176,
+    "speaker": "agent",
+    "text": "And your [OCCUPATION] is located."
+  },
+  {
+    "turn_id": 177,
+    "speaker": "agent",
+    "text": "And do you know where is your [OCCUPATION] located?"
+  },
+  {
+    "turn_id": 178,
+    "speaker": "customer",
+    "text": "I'm sorry, ma' am."
+  },
+  {
+    "turn_id": 179,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 180,
+    "speaker": "agent",
+    "text": "Can you spell out to me the last name of your [OCCUPATION], Ma' am?"
+  },
+  {
+    "turn_id": 181,
+    "speaker": "customer",
+    "text": "No, ma' am."
+  },
+  {
+    "turn_id": 182,
+    "speaker": "agent",
+    "text": "I'm not sitting at night."
+  },
+  {
+    "turn_id": 183,
+    "speaker": "customer",
+    "text": "That's a [ORGANIZATION]."
+  },
+  {
+    "turn_id": 184,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 185,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 186,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 187,
+    "speaker": "customer",
+    "text": "I didn't get it."
+  },
+  {
+    "turn_id": 188,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 189,
+    "speaker": "customer",
+    "text": "Can you come again, ma' am?"
+  },
+  {
+    "turn_id": 190,
+    "speaker": "agent",
+    "text": "What is the name of your [OCCUPATION]?"
+  },
+  {
+    "turn_id": 191,
+    "speaker": "customer",
+    "text": "Green [OCCUPATION] magazine."
+  },
+  {
+    "turn_id": 192,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 193,
+    "speaker": "customer",
+    "text": "The first name is [PERSON_NAME], Right?"
+  },
+  {
+    "turn_id": 194,
+    "speaker": "agent",
+    "text": "And the last name?"
+  },
+  {
+    "turn_id": 195,
+    "speaker": "customer",
+    "text": "How you pronounce the last name again?"
+  },
+  {
+    "turn_id": 196,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 197,
+    "speaker": "customer",
+    "text": "Say how you pronounce the last name, ma' am."
+  },
+  {
+    "turn_id": 198,
+    "speaker": "agent",
+    "text": "Say [PERSON_NAME]."
+  },
+  {
+    "turn_id": 199,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 200,
+    "speaker": "agent",
+    "text": "Is this an [LOCATION] guy?"
+  },
+  {
+    "turn_id": 201,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 202,
+    "speaker": "agent",
+    "text": "I'm sorry."
+  },
+  {
+    "turn_id": 203,
+    "speaker": "agent",
+    "text": "At the medical center."
+  },
+  {
+    "turn_id": 204,
+    "speaker": "agent",
+    "text": "Your [OCCUPATION] is located in medical center, right?"
+  },
+  {
+    "turn_id": 205,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 206,
+    "speaker": "agent",
+    "text": "He's staying all this."
+  },
+  {
+    "turn_id": 207,
+    "speaker": "customer",
+    "text": "Where."
+  },
+  {
+    "turn_id": 208,
+    "speaker": "agent",
+    "text": "Where is the medical center located?"
+  },
+  {
+    "turn_id": 209,
+    "speaker": "customer",
+    "text": "In [LOCATION]."
+  },
+  {
+    "turn_id": 210,
+    "speaker": "agent",
+    "text": "No, ma' am."
+  },
+  {
+    "turn_id": 211,
+    "speaker": "customer",
+    "text": "It [LOCATION], [LOCATION]."
+  },
+  {
+    "turn_id": 212,
+    "speaker": "agent",
+    "text": "[LOCATION], [LOCATION]?"
+  },
+  {
+    "turn_id": 213,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 214,
+    "speaker": "agent",
+    "text": "[LOCATION], [LOCATION], right?"
+  },
+  {
+    "turn_id": 215,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 216,
+    "speaker": "agent",
+    "text": "Okay, let me search this one."
+  },
+  {
+    "turn_id": 217,
+    "speaker": "customer",
+    "text": "Just say with me, okay?"
+  },
+  {
+    "turn_id": 218,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 219,
+    "speaker": "agent",
+    "text": "Okay, so your [OCCUPATION] located in [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 220,
+    "speaker": "customer",
+    "text": "No, ma' am."
+  },
+  {
+    "turn_id": 221,
+    "speaker": "agent",
+    "text": "The medical center in [LOCATION], [LOCATION]."
+  },
+  {
+    "turn_id": 222,
+    "speaker": "agent",
+    "text": "The medical center in [LOCATION], [LOCATION]?"
+  },
+  {
+    "turn_id": 223,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 224,
+    "speaker": "agent",
+    "text": "And your [OCCUPATION] name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 225,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]?"
+  },
+  {
+    "turn_id": 226,
+    "speaker": "agent",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 227,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 228,
+    "speaker": "agent",
+    "text": "Hold on."
+  },
+  {
+    "turn_id": 229,
+    "speaker": "customer",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 230,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], are you still there?"
+  },
+  {
+    "turn_id": 231,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 232,
+    "speaker": "agent",
+    "text": "All right, so we're just gonna check the system right now, okay?"
+  },
+  {
+    "turn_id": 233,
+    "speaker": "agent",
+    "text": "So that we can find your [OCCUPATION] name."
+  },
+  {
+    "turn_id": 234,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 235,
+    "speaker": "agent",
+    "text": "Wait a second."
+  },
+  {
+    "turn_id": 236,
+    "speaker": "customer",
+    "text": "You won't call me back?"
+  },
+  {
+    "turn_id": 237,
+    "speaker": "agent",
+    "text": "I will call you back tomorrow."
+  },
+  {
+    "turn_id": 238,
+    "speaker": "customer",
+    "text": "So if you."
+  },
+  {
+    "turn_id": 239,
+    "speaker": "agent",
+    "text": "If the benefit will already arrive in your house."
+  },
+  {
+    "turn_id": 240,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 241,
+    "speaker": "agent",
+    "text": "But yeah, tomorrow, because I'll inform you if you already."
+  },
+  {
+    "turn_id": 242,
+    "speaker": "customer",
+    "text": "I'll ask you."
+  },
+  {
+    "turn_id": 243,
+    "speaker": "agent",
+    "text": "I mean, I will inform you if the braces will arrive at your home already."
+  },
+  {
+    "turn_id": 244,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 245,
+    "speaker": "agent",
+    "text": "But for now, let's wait for the [OCCUPATION] name if we find it already."
+  },
+  {
+    "turn_id": 246,
+    "speaker": "customer",
+    "text": "And I will just ask you if it's correct."
+  },
+  {
+    "turn_id": 247,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 248,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 249,
+    "speaker": "agent",
+    "text": "Your [OCCUPATION] name is [PERSON_NAME] [PERSON_NAME], right?"
+  },
+  {
+    "turn_id": 250,
+    "speaker": "customer",
+    "text": "Right, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 251,
+    "speaker": "agent",
+    "text": "The name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 252,
+    "speaker": "customer",
+    "text": "Right."
+  },
+  {
+    "turn_id": 253,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 254,
+    "speaker": "customer",
+    "text": "Wait a second."
+  },
+  {
+    "turn_id": 255,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 256,
+    "speaker": "customer",
+    "text": "And that is located in [LOCATION], [LOCATION]?"
+  },
+  {
+    "turn_id": 257,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 258,
+    "speaker": "customer",
+    "text": "[PERSON_NAME], where are you located?"
+  },
+  {
+    "turn_id": 259,
+    "speaker": "agent",
+    "text": "It's [LOCATION] [LOCATION] [LOCATION] [LOCATION], [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 260,
+    "speaker": "customer",
+    "text": "Is it [LOCATION], [LOCATION]?"
+  },
+  {
+    "turn_id": 261,
+    "speaker": "agent",
+    "text": "Only [LOCATION]."
+  },
+  {
+    "turn_id": 262,
+    "speaker": "customer",
+    "text": "There's [LOCATION], right?"
+  },
+  {
+    "turn_id": 263,
+    "speaker": "agent",
+    "text": "[LOCATION], [LOCATION]."
+  },
+  {
+    "turn_id": 264,
+    "speaker": "customer",
+    "text": "Yes, ma' am."
+  },
+  {
+    "turn_id": 265,
+    "speaker": "agent",
+    "text": "That's your address."
+  },
+  {
+    "turn_id": 266,
+    "speaker": "customer",
+    "text": "Okay, so I'm almost done here."
+  },
+  {
+    "turn_id": 267,
+    "speaker": "agent",
+    "text": "I'm just gonna call you back if I have information for you."
+  },
+  {
+    "turn_id": 268,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 269,
+    "speaker": "agent",
+    "text": "You have a nice day, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 270,
+    "speaker": "customer",
+    "text": "It's nice talking to you."
+  },
+  {
+    "turn_id": 271,
+    "speaker": "agent",
+    "text": "I hope that you'll be approved, okay?"
+  }
+]

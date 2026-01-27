@@ -1,0 +1,617 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Thank you so much for calling [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "Hi, is [PERSON_NAME] there, please?"
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Please hold."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Good afternoon, [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "How may I direct to call?"
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Hi, [PERSON_NAME], please."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "One moment please."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "Good afternoon, this is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "customer",
+    "text": "Hey, [PERSON_NAME], it's [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "How are you?"
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "I'm doing well, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "I just left you a message."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "customer",
+    "text": "I guess you got it."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "agent",
+    "text": "Well, how about yourself?"
+  },
+  {
+    "turn_id": 16,
+    "speaker": "customer",
+    "text": "Yes, I did indeed."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "It was just on the other line."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "So thanks for giving me a call."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "Of course."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "So was it this foring you're looking for in the crv, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "So let me just, I guess, provide a little background."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "customer",
+    "text": "I would be looking to lease a car at the end of the month or beginning of next month."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "agent",
+    "text": "Just bought a house in [LOCATION] [LOCATION] [LOCATION], but I don't move down there for [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "customer",
+    "text": "Okay, I got you."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "agent",
+    "text": "Where are you moving from?"
+  },
+  {
+    "turn_id": 27,
+    "speaker": "customer",
+    "text": "Most people here are from somewhere else."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "Me included."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "Yes, yes."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "We're coming from [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "Just that outside of [LOCATION]."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "How about you?"
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "I move here from the [LOCATION]."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "Ye been."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "I would take a [MONEY_AMOUNT] out your way."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "Yes sir."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Well, awesome."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "Welcome to [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "When you get here, of course."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "But you know, I."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "The first [DURATION] [DURATION] [DURATION] that I was here, you know, the heat with the heat, you could have dared me to move back."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "But you."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "It was a good opportunity for my [MARITAL_STATUS] with her promotion and I've been with [ORGANIZATION] a very long time and you know, I visited for hondaitionss in this area before I decided on [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "They really had the best reviews online."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "The longest longevity of employees really, you know, said a lot about a company."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "So that's kind of how I've ended here."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "But yeah, it's a good company."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "[ORGANIZATION] [ORGANIZATION] owns [ORGANIZATION] [ORGANIZATION] [ORGANIZATION] as well as 100 plus other franchises."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "But yeah, I made a good move here and I'm very happy so far in [DATE_INTERVAL]."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Good."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "We moved here."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Oh, okay."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "That's still somewhat recently M. So end of this month, beginning of next month."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "Where did you purchase that?"
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] Here Locally?"
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "No, a little farther away."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "We purchased that Arden just outside of [LOCATION]."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "That newer development?"
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "Awesome."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "Welme congrat."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "Be there and working in [LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "Okay, great."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "Let's see here."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "And this month, what do I have coming for touring?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "Are you flexible on color?"
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "I am."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "I like the one you sent, but I am definitely flexible."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "Oay."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "Looks like I have a gray one or a blue one that should be here around that time."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "Yeah, with the two that I Have them."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "agent",
+    "text": "I know they're going to get sold relatively quickly, so I'm just kind of looking ahead for your time frme and it looks like this gray one."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "customer",
+    "text": "I could send you a link to this one maybe."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "agent",
+    "text": "I have a VIN number."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "customer",
+    "text": "Yeah, I might be able to pull that one up and send it to you."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "agent",
+    "text": "How many [DURATION] [DURATION] do you think you'll need for the [TIME]?"
+  },
+  {
+    "turn_id": 81,
+    "speaker": "customer",
+    "text": "[TIME]."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "customer",
+    "text": "Do you plan on trading anything, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "No, I have a [ORGANIZATION] 3 Series that's coming off lease here that I will, I guess, turn in here and then start fresh down there."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "customer",
+    "text": "All right, so it sounds like you need to get this all lined up and make sure you have the vehicle secured and all the details and all that stuff coming down here."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "Putting a lot of trust in the local [OCCUPATION] here so it can be secured for you."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "Sound about right?"
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "You know, my [MARITAL_STATUS] has the, the Minian, so, you know, we won't be completely on foot, but having car definly be better."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "No, no, no biking for me."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Okay, here's what I'll do."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "I'm going to do two things."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "When we hang up, I'm going to send you a link to, to this vehicle."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "Check it out."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "Let me know if that'work for you."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "I'll also work up the leastase for you."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "[TIME] miles per [DURATION]."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "Do you have an amount in mind that you'd like to put down or a monthly payment budget that we can try to kind of back into with x amount of [MONEY_AMOUNT] down or what were your thought there?"
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "Yeah, so I."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "The car is going to be leased through my company, so I have to, you know, I guess, you know what I would need from you in terms of."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "I know some people ask for a corporate resolution that's a little difficult'm the [OCCUPATION] of the company."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "I could bring in some information on that."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "But I guess all that to say ultimately at some point I need to get the final blessing, if you will, from the rest of the team."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "But yeah, I mean, I'm seeing, you know, that the PRV is somewhere in the [MONEY_AMOUNT] range, you know, money down, which trims."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "So, you know, somewhere around there probably."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "Okay, so I can give you [DURATION] [DURATION] options, you know, kind of tail it around that [MONEY_AMOUNT], you know, with money down, maybe, you know, throwing [DURATION] [DURATION] options with, you know, a little more, a little less kind of rang it a little bit and you could take a look and, you know, show it to the powers that be and then let me know your thoughts and if you'd like to secure a vehicle."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "I'HAPPY to help."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "Great."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "agent",
+    "text": "R. You're welcome."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "customer",
+    "text": "So yeah, you'already got my la."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "agent",
+    "text": "Expect something from me a little bit later today and then I'll follow up with you and see what your thoughts are."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "customer",
+    "text": "And if we can help in any other way moving forward, I'm glad to do so."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "Great."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "agent",
+    "text": "I appreciate that."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "customer",
+    "text": "Nice meeting is you as well, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "agent",
+    "text": "Watch for my email and hopefully we'll talk again soon."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "customer",
+    "text": "Thanks so much and have a great day."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "agent",
+    "text": "Okay, you too."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "customer",
+    "text": "Bye."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "agent",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "Bye."
+  }
+]

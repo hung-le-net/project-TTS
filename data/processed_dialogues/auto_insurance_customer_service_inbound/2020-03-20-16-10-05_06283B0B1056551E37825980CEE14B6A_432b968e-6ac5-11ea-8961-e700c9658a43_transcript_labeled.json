@@ -1,0 +1,1087 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "This call may be recorded for quality assurance."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "Good morning."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "customer",
+    "text": "My name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "agent",
+    "text": "And are you seeking coverage on a new auto insurance policy today?"
+  },
+  {
+    "turn_id": 5,
+    "speaker": "customer",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "Okay, I'll be more than happy to assist you with that."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "Please allow me to verify some information that will connect you to your [OCCUPATION]."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "And I can start with your first and last name, please."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "That's."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "I'm sorry, Last name again?"
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Okay, thanks."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "And the five digit zip code for you, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "Are you in the state of [LOCATION]?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "I am."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "And who is your current auto insurance provider?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "customer",
+    "text": "[ORGANIZATION]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "agent",
+    "text": "[ORGANIZATION]."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "agent",
+    "text": "How long you been insured with them?"
+  },
+  {
+    "turn_id": 27,
+    "speaker": "customer",
+    "text": "An estimate is fine."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "[DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "[DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "And what are you roughly paying per [DURATION] with them?"
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "Change?"
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "Can give some lower rates for you."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "customer",
+    "text": "And are you a homeowner?"
+  },
+  {
+    "turn_id": 38,
+    "speaker": "agent",
+    "text": "I am not."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "customer",
+    "text": "All right, no worries there."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "agent",
+    "text": "If you don't mind confirming your date of birth."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH] [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "agent",
+    "text": "That is [DATE_OF_BIRTH] [DATE_OF_BIRTH], [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "customer",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "All right, [PERSON_NAME], hold on one moment."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "agent",
+    "text": "Update your information."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "customer",
+    "text": "So in the past [DURATION] [DURATION], any DUIs, SR22s or asphalt accident?"
+  },
+  {
+    "turn_id": 48,
+    "speaker": "agent",
+    "text": "None."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "customer",
+    "text": "All right, great to hear."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "customer",
+    "text": "Ticket?"
+  },
+  {
+    "turn_id": 52,
+    "speaker": "agent",
+    "text": "Two or more in the past [DURATION] [DURATION]?"
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "None."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "Okay, that's great to hear."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "customer",
+    "text": "All right, so how many vehicles are you looking to insure, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 56,
+    "speaker": "agent",
+    "text": "A [DATE_INTERVAL] [ORGANIZATION] truck and possibly a [DATE_INTERVAL] [ORGANIZATION] Mustang."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "customer",
+    "text": "All right, two vehicles."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "So that'd be it."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "customer",
+    "text": "Thank you."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "That I needed."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "So I am searching for your best match now."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "Also, to ensure you're satisfied with your coverage options you receive."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "Can we follow up with an automatic text message to this number?"
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "Your consent is not required to receive a quote."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "customer",
+    "text": "All right, so I have that match for you here."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "Should take about [DURATION], [DURATION] [DURATION] to go over the coverage options I am showing."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "[ORGANIZATION] [ORGANIZATION] is your best available option."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "So."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "One moment, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "I'll connect you over now."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "Okay, thank you."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "You're welcome."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "No problem."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "One moment."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "Please stay on the line while we connect."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], please stay on the line while we connect."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "customer",
+    "text": "You all right, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 82,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "I appreciate you holding."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "I do have your license, [OCCUPATION] [PERSON_NAME], on the line."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "Assist from here."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "You both have a great day."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "Bye."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "Bye."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "Hey, how you doing, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "My bad."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "Oh, yourself all right."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "Oh, pretty good, man."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "Your record didn't come over here."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "Can I get the last name to pull that record up?"
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "And zip code [LOCATION]."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "customer",
+    "text": "Are you [LOCATION] [LOCATION] [LOCATION] [LOCATION] in [LOCATION]?"
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "customer",
+    "text": "One moment."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "Now what has you looking at new insurance quotes today?"
+  },
+  {
+    "turn_id": 106,
+    "speaker": "customer",
+    "text": "Possibly gonna buy a new mustard new Mustang, but new to me like a [DATE_INTERVAL] Mustang."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "agent",
+    "text": "So I want to see what kind of quotes they use."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "Do you have the VIN number?"
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "I do not test drove it, stuff like that."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "But I have not filled out paperwork with them and got all that information."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "So I just have a year, make, model, engine size, all that stuff."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "customer",
+    "text": "Well, we'll get."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "agent",
+    "text": "Excuse me."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "customer",
+    "text": "We'll get approximate then."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "agent",
+    "text": "All right, let's see."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "Hold on here."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "agent",
+    "text": "We've got these other drivers in the household."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "customer",
+    "text": "Is there a parent that can policy Or [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 121,
+    "speaker": "agent",
+    "text": "Yeah, I'm ready."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "Or [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 123,
+    "speaker": "agent",
+    "text": "I believe there's two different options for me."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "customer",
+    "text": "Either the [PERSON_NAME] or [PERSON_NAME]."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "agent",
+    "text": "Oh, okay."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "customer",
+    "text": "You're the same person."
+  },
+  {
+    "turn_id": 127,
+    "speaker": "agent",
+    "text": "Okay, I have two different data births."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "customer",
+    "text": "So what."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "agent",
+    "text": "What's your date of birth?"
+  },
+  {
+    "turn_id": 130,
+    "speaker": "customer",
+    "text": "That's completely accurate."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "agent",
+    "text": "It is [DATE_OF_BIRTH] [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH] [DATE_OF_BIRTH] [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "agent",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "customer",
+    "text": "And I do have a VIN number for the second vehicle for a truck."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "agent",
+    "text": "Oh, is it a super duty or correct [DATE_INTERVAL]."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "customer",
+    "text": "Well, I had that one."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "customer",
+    "text": "All right, one second here."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "I did have a [DATE_INTERVAL] Mustang that I had the VIN number and everything."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "customer",
+    "text": "But that car is gone now."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "But I don't know if that helps any because it had all the same options."
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "Hence the reason why I'm buying another one because I really like it."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "Let's see."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "So [ORGANIZATION] Mustang."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "agent",
+    "text": "Okay, which model is it the Tudor coupe?"
+  },
+  {
+    "turn_id": 146,
+    "speaker": "customer",
+    "text": "Yeah, it's The G Premium GT Premium."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "agent",
+    "text": "Is that the 3.7 engine size or 5,05?"
+  },
+  {
+    "turn_id": 148,
+    "speaker": "customer",
+    "text": "5.0."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "agent",
+    "text": "So 2."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "customer",
+    "text": "The two door coupe."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "agent",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "customer",
+    "text": "Not the convertible."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "agent",
+    "text": "Right, not the convertible."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "customer",
+    "text": "So two vehicles, one driver."
+  },
+  {
+    "turn_id": 155,
+    "speaker": "agent",
+    "text": "What was that?"
+  },
+  {
+    "turn_id": 156,
+    "speaker": "customer",
+    "text": "Two vehicles, one driver."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "agent",
+    "text": "Correct."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "agent",
+    "text": "And you do liability on the F250 or what are you doing right now?"
+  },
+  {
+    "turn_id": 160,
+    "speaker": "customer",
+    "text": "I believe I have the state minimum."
+  },
+  {
+    "turn_id": 161,
+    "speaker": "agent",
+    "text": "I believe is [MONEY_AMOUNT], something like that."
+  },
+  {
+    "turn_id": 162,
+    "speaker": "customer",
+    "text": "[MONEY_AMOUNT]?"
+  },
+  {
+    "turn_id": 163,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 164,
+    "speaker": "customer",
+    "text": "Oh, [MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 165,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 166,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 167,
+    "speaker": "agent",
+    "text": "Excuse me."
+  },
+  {
+    "turn_id": 168,
+    "speaker": "customer",
+    "text": "Are you doing just liability on the truck?"
+  },
+  {
+    "turn_id": 169,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 170,
+    "speaker": "customer",
+    "text": "Okay, so full coverage on the Mustang?"
+  },
+  {
+    "turn_id": 171,
+    "speaker": "agent",
+    "text": "Actually, I'm gonna be purchasing it outright, so I don't need to carry full coverage."
+  },
+  {
+    "turn_id": 172,
+    "speaker": "customer",
+    "text": "If we can do like the 100."
+  },
+  {
+    "turn_id": 173,
+    "speaker": "agent",
+    "text": "Well, not 100."
+  },
+  {
+    "turn_id": 174,
+    "speaker": "customer",
+    "text": "300."
+  },
+  {
+    "turn_id": 175,
+    "speaker": "agent",
+    "text": "There's one right below that."
+  },
+  {
+    "turn_id": 176,
+    "speaker": "customer",
+    "text": "I can't remember off the top of my head."
+  },
+  {
+    "turn_id": 177,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 178,
+    "speaker": "customer",
+    "text": "Are you looking for just."
+  },
+  {
+    "turn_id": 179,
+    "speaker": "agent",
+    "text": "What was that?"
+  },
+  {
+    "turn_id": 180,
+    "speaker": "customer",
+    "text": "Are you looking for just liability?"
+  },
+  {
+    "turn_id": 181,
+    "speaker": "agent",
+    "text": "No, not just liability."
+  },
+  {
+    "turn_id": 182,
+    "speaker": "customer",
+    "text": "I want collision and everything."
+  },
+  {
+    "turn_id": 183,
+    "speaker": "agent",
+    "text": "But I just want this minimum because there's."
+  },
+  {
+    "turn_id": 184,
+    "speaker": "customer",
+    "text": "I believe in our state, we got 100, 300 in the middle, and there's a step above and a step below."
+  },
+  {
+    "turn_id": 185,
+    "speaker": "agent",
+    "text": "I don't remember what a step below was, though."
+  },
+  {
+    "turn_id": 186,
+    "speaker": "customer",
+    "text": "Right."
+  },
+  {
+    "turn_id": 187,
+    "speaker": "agent",
+    "text": "Well, don't confuse that with adding full coverage on the vehicle."
+  },
+  {
+    "turn_id": 188,
+    "speaker": "customer",
+    "text": "I mean, with no payment, you don't have to put comprehensive and collision on a."
+  },
+  {
+    "turn_id": 189,
+    "speaker": "agent",
+    "text": "On a car if you don't want to."
+  },
+  {
+    "turn_id": 190,
+    "speaker": "customer",
+    "text": "Right, right."
+  },
+  {
+    "turn_id": 191,
+    "speaker": "agent",
+    "text": "And I do want collision just in case it's an expensive car for what it is."
+  },
+  {
+    "turn_id": 192,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 193,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 194,
+    "speaker": "customer",
+    "text": "Maybe Sound like you just wanted liability."
+  },
+  {
+    "turn_id": 195,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 196,
+    "speaker": "customer",
+    "text": "I'll go high on the deductible to get you a better rate."
+  },
+  {
+    "turn_id": 197,
+    "speaker": "agent",
+    "text": "I mean, let's see."
+  },
+  {
+    "turn_id": 198,
+    "speaker": "customer",
+    "text": "Yeah, it's just a truck that I want liability on, and then the car."
+  },
+  {
+    "turn_id": 199,
+    "speaker": "agent",
+    "text": "I want the collision."
+  },
+  {
+    "turn_id": 200,
+    "speaker": "customer",
+    "text": "Yeah, we're about [MONEY_AMOUNT] now."
+  },
+  {
+    "turn_id": 201,
+    "speaker": "agent",
+    "text": "I mean, liability."
+  },
+  {
+    "turn_id": 202,
+    "speaker": "customer",
+    "text": "I want full coverage on it."
+  },
+  {
+    "turn_id": 203,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 204,
+    "speaker": "customer",
+    "text": "We'll know more when we have the."
+  },
+  {
+    "turn_id": 205,
+    "speaker": "agent",
+    "text": "Might go down a little over when we get to vin."
+  },
+  {
+    "turn_id": 206,
+    "speaker": "customer",
+    "text": "Right, right."
+  },
+  {
+    "turn_id": 207,
+    "speaker": "agent",
+    "text": "Well, I appreciate your time, but I've got a quote right now."
+  },
+  {
+    "turn_id": 208,
+    "speaker": "customer",
+    "text": "[MONEY_AMOUNT] for collision and liability, so."
+  },
+  {
+    "turn_id": 209,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 210,
+    "speaker": "customer",
+    "text": "I think."
+  },
+  {
+    "turn_id": 211,
+    "speaker": "agent",
+    "text": "Well, let us know if that doesn't work out, buddy."
+  },
+  {
+    "turn_id": 212,
+    "speaker": "agent",
+    "text": "Appreciate it."
+  },
+  {
+    "turn_id": 213,
+    "speaker": "customer",
+    "text": "No worries."
+  },
+  {
+    "turn_id": 214,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 215,
+    "speaker": "customer",
+    "text": "Thanks, buddy."
+  },
+  {
+    "turn_id": 216,
+    "speaker": "agent",
+    "text": "Yeah, a good one."
+  }
+]

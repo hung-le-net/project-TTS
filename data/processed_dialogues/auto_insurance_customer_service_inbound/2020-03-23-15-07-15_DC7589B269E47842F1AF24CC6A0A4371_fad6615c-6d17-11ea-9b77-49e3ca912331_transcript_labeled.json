@@ -1,0 +1,787 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "This call may be recorded for quality assurance."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "Thank you for calling [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "Quote, my name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Are you calling in today seeking coverage for a new auto insurance policy?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Well, some guy called me and he switched me over to you guys."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "Okay, let me just gather some of your information."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "agent",
+    "text": "Can I have your first name, please?"
+  },
+  {
+    "turn_id": 7,
+    "speaker": "customer",
+    "text": "I don't want to go through all this information."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "agent",
+    "text": "So you guys have taken this stuff down 10 times."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "customer",
+    "text": "You have my name, you have my."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "Sir, it takes me about [DURATION] [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "I. I don't have any information."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "I'm sorry."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "It only takes me about [DURATION] [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "All right, can I have your first name?"
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "It's [PERSON_NAME]."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "And last name?"
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "And zip code?"
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "customer",
+    "text": "Ready, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "agent",
+    "text": "And what's the name of your current insurance provider?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "customer",
+    "text": "[ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "agent",
+    "text": "Guys, before you just asked me all this stuff."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "customer",
+    "text": "Well, I. I don't know why this had to keep going through all this."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "Yeah, it must have not been transferred over correctly."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "How long have you been with [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "Pardon?"
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "How long have you been with [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "[DURATION], [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "We just switched over from then last time we were doing this and I'm still getting calls for better rate."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "Okay, and what are they charging per [DURATION]?"
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "Do you know right off hand?"
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "[MONEY_AMOUNT] is what I pay."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "customer",
+    "text": "And that's what I try to tell everybody up front."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "If you can beat that call and waste my time otherwise."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "But nobody never does."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "So, you know, I don't do this [DURATION] [DURATION] spree all the time."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "customer",
+    "text": "Yeah, and never it comes up waste of time."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "agent",
+    "text": "No, we can buy somebody into the [MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "customer",
+    "text": "Now, are you a homeowner?"
+  },
+  {
+    "turn_id": 44,
+    "speaker": "agent",
+    "text": "No."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Okay, and what is your date of birth?"
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH] [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "So in the past [DURATION] [DURATION], have you had any DUIs, SR22s or any at fault accident?"
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "No tickets."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "No accidents."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "No tickets either."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "Okay, how many vehicles were you looking to receive a quote for today?"
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "Two vehicles."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "Okay, and what kind of coverage do you like to have?"
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Do you like to be at the minimum or do you need to be fully covered?"
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "Full coverage."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "They're brand new cars."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Okay, how about credit?"
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "Would you rate it as excellent, good, fair or poor?"
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "Good."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "700."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "And [PERSON_NAME], have you or your [MARITAL_STATUS] ever honorably served in [ORGANIZATION] [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "Okay, that's all the information that I have to gather now."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "It should take [DURATION] [DURATION] [DURATION] [DURATION] to go over coverage options and receive your quotes."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "But just to ensure you're satisfied, is it okay if we follow up With a text message."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "One the [MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "Okay, so one last question."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "What is Your street address?"
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "[LOCATION] [LOCATION] [LOCATION] [LOCATION] here."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "Quick search, see who matches up with you."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "Have you been quoted from [ORGANIZATION] [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "I think so."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "I've been through all of them, kind of, and it was just recently, probably in the last [DURATION]."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "Okay, and how about [ORGANIZATION]?"
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Because with [ORGANIZATION] right Now you save 10% immediately and 40% for safe driving if you join their Smart Ride program."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "They have a bunch of different discounts available."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Yeah, that's what [ORGANIZATION] kind of had."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "Paid by the mileage or something."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "That was like, cheapest plan, because I. I don't drive that off much."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "You know, vehicles are a thousand miles [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "Maybe one vehicle, 2,000 miles [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "So have you spoke to [ORGANIZATION] yet?"
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "No, I."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "Well, I don't know."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "I don't remember."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "Not too sure."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "Yeah, recent quotes are always changing with insurance companies."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "They're showing to be a good match to save you some money, especially with all their discount programs that they have available for."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "So."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "Give me just a moment, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "I'll be right back on the line."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "Please stay on the line while we connect you."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "agent",
+    "text": "Please stay on the line while we connect you."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "agent",
+    "text": "[ORGANIZATION] has a privacy policy to protect your personal information, and it's available to you upon request."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "agent",
+    "text": "You have the right to review your personal information in our files and can request correction of any inaccuracies."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "agent",
+    "text": "Please stay on the line while we connect you."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]?"
+  },
+  {
+    "turn_id": 103,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "Thanks so much for holding."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "Idea of [OCCUPATION] [OCCUPATION] online from [ORGANIZATION]."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "You'll have a great day."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "customer",
+    "text": "Thanks."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "agent",
+    "text": "Thank you, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "customer",
+    "text": "Good morning to you, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "agent",
+    "text": "My name is [PERSON_NAME], [PERSON_NAME], and I'm going to help you with this code that you need."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 112,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], keep in mind this call has been recorded and monitored for business purposes."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "customer",
+    "text": "Go ahead, sir."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "Just your communication kind of break you uppy."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "customer",
+    "text": "Can you hear me better?"
+  },
+  {
+    "turn_id": 116,
+    "speaker": "agent",
+    "text": "Kind of a little bit better, but what."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "customer",
+    "text": "What information do you need?"
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "They've gotten it from me like three times already this morning."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "customer",
+    "text": "Oh, wow."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "I'm gonna need pretty much most of your information, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "agent",
+    "text": "I only have your name."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "customer",
+    "text": "Pretty much take about [DURATION], [DURATION] [DURATION] to complete the process."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "agent",
+    "text": "Is this a good time for you?"
+  },
+  {
+    "turn_id": 124,
+    "speaker": "customer",
+    "text": "Well, why all these people before you take down all my information?"
+  },
+  {
+    "turn_id": 125,
+    "speaker": "agent",
+    "text": "Like, you know, when they've asked for it before, and I gave them a quote, what I'm paying now, and it's like, they can't beat that."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "customer",
+    "text": "And no sense wasting time, you know?"
+  },
+  {
+    "turn_id": 127,
+    "speaker": "customer",
+    "text": "And they told me to be just [DURATION] [DURATION] [DURATION] [DURATION] Half, you know."
+  },
+  {
+    "turn_id": 128,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "agent",
+    "text": "And I go through this is what irritates me is and people come up like twice the amount that I'm paying now to for coverage."
+  },
+  {
+    "turn_id": 130,
+    "speaker": "customer",
+    "text": "And it's like waste of time."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "agent",
+    "text": "So it gets kind of old."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "customer",
+    "text": "You know."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "customer",
+    "text": "I just switched company [DURATION], [DURATION] [DURATION] ago because [ORGANIZATION] kept jacking our rates up and we went back to our old company, [ORGANIZATION] [ORGANIZATION] and I gave these people what I'm paying now."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "agent",
+    "text": "And if it's like you didn't beat that, got to the chase."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "customer",
+    "text": "Okay, well I don't want to waste your time either, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "agent",
+    "text": "Go ahead."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "customer",
+    "text": "I mean I don't want to waste your time."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "agent",
+    "text": "So if you have spoken with many people, unfortunately those people that provided you higher rates I am with nationwide."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "I don't have anything from you other than your first name."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "customer",
+    "text": "There is a process that I need to follow."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "This is not the best time."
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "Maybe I can follow up with you at a later time."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "I'm off work after [TIME]."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "You know, like I said, I got full coverage."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "agent",
+    "text": "Two brand new cars, glass and rental and under insurer everything."
+  },
+  {
+    "turn_id": 146,
+    "speaker": "customer",
+    "text": "And I'm paying [MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "agent",
+    "text": "If you guys can see that then you can call me back."
+  },
+  {
+    "turn_id": 148,
+    "speaker": "customer",
+    "text": "So if you can go through and, and can't."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 150,
+    "speaker": "agent",
+    "text": "You know I have your phone number, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "customer",
+    "text": "[PHONE_NUMBER]."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "agent",
+    "text": "I'll call you right around [TIME] today."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "agent",
+    "text": "All right, thank you."
+  },
+  {
+    "turn_id": 155,
+    "speaker": "customer",
+    "text": "Have a good morning, sir."
+  },
+  {
+    "turn_id": 156,
+    "speaker": "agent",
+    "text": "You too."
+  }
+]

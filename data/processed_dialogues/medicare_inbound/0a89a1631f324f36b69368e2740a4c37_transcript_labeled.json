@@ -1,0 +1,572 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "[ORGANIZATION] [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "How can I help you?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "Fin to make reservation for boarding."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Yeah, have you stayed with us before?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "With you?"
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Stay with us before."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "Can I get a good phone number for your account?"
+  },
+  {
+    "turn_id": 10,
+    "speaker": "customer",
+    "text": "Those last four digits."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "Sorry, you're cutting out a little bit."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "I'll try to get a different looking for [PERSON_NAME]."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "Not [PERSON_NAME]."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "customer",
+    "text": "We have a new puppy."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "agent",
+    "text": "His name is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 16,
+    "speaker": "customer",
+    "text": "Gotcha."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "agent",
+    "text": "I will go ahead and just create a new animal under your profile."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "customer",
+    "text": "So [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "And then what breed is moved?"
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "A Bernie Doodle."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "And how old is [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "[PERSON_AGE]."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "Do we have an approximate date of birth?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "[DATE_OF_BIRTH] [DATE_OF_BIRTH] Perect."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "And then how much would you say that [PERSON_NAME] waigh?"
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "customer",
+    "text": "And is [PERSON_NAME] [MEDICAL_PROCESS]?"
+  },
+  {
+    "turn_id": 29,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "agent",
+    "text": "Any [MEDICAL_CONDITION], medical conditions, anything we should know of?"
+  },
+  {
+    "turn_id": 32,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "agent",
+    "text": "All right, give me just one moment here."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "customer",
+    "text": "Going through everything."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "And you said we were looking for reservations?"
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "customer",
+    "text": "Got you."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "We would need to set up just a quick meet and greet before we did that."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "But I could definitely go ahead and put the reservations in now."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "Okay, so what dates were we looking for?"
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Drop off is [DATE] [DATE] [DATE] and pick up."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Sorry, I'm second guessing that."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "Drop off."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "That's yeah right."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "So drop off [DATE] [DATE]."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "Pick up on [DATE] [DATE] [DATE]."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "[DATE] [DATE]."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "All right, I'll go ahead and make that reservation for you."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "And then will we be able to set up a meet meeting greet before you guys came in for boarding?"
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "Yeah, definitely."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "So those usually go for Monday through Saturday starting at [TIME] and ending at [TIME]."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "I could go ahead and look at our soonest available date if that works for you."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "Yeah, you said weekends are a possibility."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "We could do Saturday for you."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "Okay, we do it today."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Unfortunately we are all booked up for today."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "But I could look at next Saturday for you."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "Okay, thats fine."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "On that next Saturday I could do [TIME] or [TIME] [TIME]."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "And how long does it take?"
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "It takes about [DURATION] [DURATION] [DURATION] [DURATION]."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "With you guys already having a profile set up and me making that for most it should take like [DURATION] [DURATION] max."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "Okay, what was the latest one?"
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "At [TIME] Anything closer to [TIME]?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "Yeah, I could do a [TIME] for youes."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "If that works."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "customer",
+    "text": "Maybe a little bit later so we can go home and pick them up after our appointment."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "agent",
+    "text": "So [TIME]."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "customer",
+    "text": "I could do a [TIME] for you."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "[TIME]?"
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "Yeah, that's fine."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "Awesome."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Perfect."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "Well next Saturday I'll go ahead, have you bring a news to yourself and then some updated vaccines and then we should be all good."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "And that's the [DATE], or is that."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "That is the [DATE]."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "customer",
+    "text": "I'm putting it on the calendar."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "agent",
+    "text": "[DATE] at [TIME]."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "customer",
+    "text": "And you said we need to bring stuff or not need."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "Just some updated vaccines for us."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "agent",
+    "text": "Updated vaccine."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "agent",
+    "text": "And updated vaccine."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "customer",
+    "text": "[PERSON_NAME]."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "agent",
+    "text": "It will take about [DURATION] [DURATION] maybe."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "customer",
+    "text": "Y."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "agent",
+    "text": "All right, great."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "customer",
+    "text": "You didn't ask me about the boarding package or any information about that."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "Them."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "customer",
+    "text": "Yeah, so we usually can do that after evaluation."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "agent",
+    "text": "I have the date set for you, but on that [DURATION] that you guys come in, we'go ahead and go over all the details for you."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "customer",
+    "text": "O."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "customer",
+    "text": "There's not a risk of not having space for him?"
+  },
+  {
+    "turn_id": 103,
+    "speaker": "agent",
+    "text": "No."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "customer",
+    "text": "Since I got that reservation down, there is no risk of you guys missing anything."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "customer",
+    "text": "And what about having a private place for him to sleep?"
+  },
+  {
+    "turn_id": 107,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "customer",
+    "text": "Were we looking for a luxury suite?"
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "Well, maybe."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "What's the regular one?"
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "Is there an opportunity to get just a regular cabin?"
+  },
+  {
+    "turn_id": 112,
+    "speaker": "customer",
+    "text": "So, yeah, we do have our classic suites."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "agent",
+    "text": "It'll be in a kettle room with other."
+  }
+]

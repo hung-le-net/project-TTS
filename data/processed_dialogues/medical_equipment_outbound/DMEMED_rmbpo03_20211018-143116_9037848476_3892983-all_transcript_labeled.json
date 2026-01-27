@@ -1,0 +1,487 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 1,
+    "speaker": "customer",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "agent",
+    "text": "Hello?"
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Yeah, hi, this is [PERSON_NAME] from [ORGANIZATION] [ORGANIZATION]."
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "I'm looking for [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "Looking for [PERSON_NAME]."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Oh, hi, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "How is your day?"
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "Oh, I'm happy to hear that."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "customer",
+    "text": "And the reason why I'm calling you right now, [PERSON_NAME], is because you might qualify for another."
+  },
+  {
+    "turn_id": 11,
+    "speaker": "agent",
+    "text": "I mean, for a benefit that recently opened."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "customer",
+    "text": "It is the newest benefit."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "agent",
+    "text": "I'm sorry, you might qualify to receive your upgraded Medicare benefit."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "It just out this [DURATION] and you might be qualified for it because you have part A and B."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "customer",
+    "text": "Right, [PERSON_NAME]?"
+  },
+  {
+    "turn_id": 16,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 17,
+    "speaker": "customer",
+    "text": "Right."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "agent",
+    "text": "[PERSON_NAME], if you don't mind me asking, are you paying your prescription?"
+  },
+  {
+    "turn_id": 19,
+    "speaker": "customer",
+    "text": "I'm sorry?"
+  },
+  {
+    "turn_id": 20,
+    "speaker": "agent",
+    "text": "Do you pay your prescriptions?"
+  },
+  {
+    "turn_id": 21,
+    "speaker": "customer",
+    "text": "No, I live in a nursing home."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "agent",
+    "text": "When you go to your [OCCUPATION], do you have copays, do you have coverage for dental, vision or hearing?"
+  },
+  {
+    "turn_id": 23,
+    "speaker": "customer",
+    "text": "They come see me."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "agent",
+    "text": "Do you have a full coverage for dental, vision or hearing?"
+  },
+  {
+    "turn_id": 25,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 26,
+    "speaker": "agent",
+    "text": "And would you love to receive extra benefits like money back on part B premium up to $[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "And money back."
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "Don't send it to me, I'm sorry."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "No, it's extra benefits like money back on part B premium up to $[MONEY_AMOUNT]."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "Transportation services, coverage for over the counter items."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "Yes, I'm talking about you send the money to me so I get what I want."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "All right, so we'll go to process that so that you can have that benefit by this week."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "agent",
+    "text": "All right, so I'm going to make your profile right now."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "customer",
+    "text": "So I need to confirm the information that I have here."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "agent",
+    "text": "Is this your primary phone number that I have called you?"
+  },
+  {
+    "turn_id": 39,
+    "speaker": "customer",
+    "text": "It's [PHONE_NUMBER]."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "agent",
+    "text": "Okay, thank you."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "And your last name is?"
+  },
+  {
+    "turn_id": 42,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] and your date of birth is [DATE_OF_BIRTH], [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "customer",
+    "text": "[DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "customer",
+    "text": "Oh, you sound so young over the phone."
+  },
+  {
+    "turn_id": 46,
+    "speaker": "agent",
+    "text": "I'm never expecting that."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "customer",
+    "text": "You sound younger than being born at [DATE_OF_BIRTH]."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "And your address is [LOCATION] [LOCATION] [LOCATION], [LOCATION]."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "[LOCATION]."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "And okay."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "agent",
+    "text": "All right, I hate to ask this, don't get me wrong here."
+  },
+  {
+    "turn_id": 54,
+    "speaker": "customer",
+    "text": "Have you been positive with [MEDICAL_CONDITION] [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 55,
+    "speaker": "agent",
+    "text": "I hope not."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "And are you suffering from [MEDICAL_CONDITION] [MEDICAL_CONDITION] like [MEDICAL_CONDITION] or [MEDICAL_CONDITION] [MEDICAL_CONDITION] [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 58,
+    "speaker": "agent",
+    "text": "But one thing, this is the lower part of my back."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "customer",
+    "text": "No, I'm suffering with periods."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "agent",
+    "text": "You don't have any [MEDICAL_CONDITION] [MEDICAL_CONDITION], like [MEDICAL_CONDITION] [MEDICAL_CONDITION] [MEDICAL_CONDITION]?"
+  },
+  {
+    "turn_id": 61,
+    "speaker": "customer",
+    "text": "I'm happy to hear that."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "agent",
+    "text": "Do you receive extra help from the state, like [MEDICAL_PROCESS]?"
+  },
+  {
+    "turn_id": 63,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "agent",
+    "text": "Give me that."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "customer",
+    "text": "Like this."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "agent",
+    "text": "I work for."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "Along with your Medicare, do you have Medicaid?"
+  },
+  {
+    "turn_id": 70,
+    "speaker": "agent",
+    "text": "Also, is your, what is your primary insurance?"
+  },
+  {
+    "turn_id": 71,
+    "speaker": "customer",
+    "text": "Is it Medicare Medicare, Medicaid, Medicare Advantage, Medicare and Medicaid."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "Okay, so."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "agent",
+    "text": "So I'm almost done here."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "agent",
+    "text": "For you to have your Medicare benefit and to finalize all the process, I'm going to let you speak with one of my [OCCUPATION] who is near in your area in [LOCATION] because they are the one who is going to provide you that."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 77,
+    "speaker": "agent",
+    "text": "Yeah, because they are the one who is near in you."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "agent",
+    "text": "Stay on the line and wait for them to answer the call."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "customer",
+    "text": "Okay?"
+  },
+  {
+    "turn_id": 81,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "agent",
+    "text": "Thank you for calling to review your Medicare options."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "Calls may be recorded."
+  },
+  {
+    "turn_id": 85,
+    "speaker": "customer",
+    "text": "Quality assurance."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "Hi, this is [PERSON_NAME] on a recorded line."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "agent",
+    "text": "Hi, yes, ma' am, my name is [PERSON_NAME] on a recorded line."
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "Are you interested in going through your Medicare benefits today?"
+  },
+  {
+    "turn_id": 89,
+    "speaker": "agent",
+    "text": "You wouldn't have [DURATION] [DURATION] [DURATION] [DURATION] so you can know your options and benefits?"
+  },
+  {
+    "turn_id": 90,
+    "speaker": "customer",
+    "text": "Yeah, I hear you."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "agent",
+    "text": "Call me back."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "customer",
+    "text": "I'm here busy right now."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "agent",
+    "text": "We're gonna."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "customer",
+    "text": "Okay, we're gonna try to contact you when you're at an appropriate time."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "agent",
+    "text": "You have a great day."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "customer",
+    "text": "Thank you."
+  }
+]

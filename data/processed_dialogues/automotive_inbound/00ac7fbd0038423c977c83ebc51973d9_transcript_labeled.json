@@ -1,0 +1,862 @@
+[
+  {
+    "turn_id": 0,
+    "speaker": "agent",
+    "text": "[PERSON_NAME] in [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 1,
+    "speaker": "agent",
+    "text": "How can I help you?"
+  },
+  {
+    "turn_id": 2,
+    "speaker": "customer",
+    "text": "Yeah, I have a few questions for you."
+  },
+  {
+    "turn_id": 3,
+    "speaker": "agent",
+    "text": "Regarding what?"
+  },
+  {
+    "turn_id": 4,
+    "speaker": "customer",
+    "text": "As to whether or not I can answer them."
+  },
+  {
+    "turn_id": 5,
+    "speaker": "agent",
+    "text": "Yep."
+  },
+  {
+    "turn_id": 6,
+    "speaker": "customer",
+    "text": "Disregarding basically what."
+  },
+  {
+    "turn_id": 7,
+    "speaker": "agent",
+    "text": "What happens if I return a car that is leased out?"
+  },
+  {
+    "turn_id": 8,
+    "speaker": "customer",
+    "text": "Did you lease it from here?"
+  },
+  {
+    "turn_id": 9,
+    "speaker": "agent",
+    "text": "Yes, that's correct, ma' am."
+  },
+  {
+    "turn_id": 10,
+    "speaker": "agent",
+    "text": "Okay, who was your [OCCUPATION]?"
+  },
+  {
+    "turn_id": 11,
+    "speaker": "customer",
+    "text": "I don't remember."
+  },
+  {
+    "turn_id": 12,
+    "speaker": "agent",
+    "text": "Okay, well, let me try and get you to one of them so that they can help you."
+  },
+  {
+    "turn_id": 13,
+    "speaker": "customer",
+    "text": "Good afternoon."
+  },
+  {
+    "turn_id": 14,
+    "speaker": "agent",
+    "text": "It's [PERSON_NAME]."
+  },
+  {
+    "turn_id": 15,
+    "speaker": "agent",
+    "text": "And who am I speaking with?"
+  },
+  {
+    "turn_id": 16,
+    "speaker": "customer",
+    "text": "Hey, [PERSON_NAME], how's it going?"
+  },
+  {
+    "turn_id": 17,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 18,
+    "speaker": "customer",
+    "text": "I just have a few questions for you about my lease."
+  },
+  {
+    "turn_id": 19,
+    "speaker": "agent",
+    "text": "First of all, we've had some recalls on the transmission and then also the airbags."
+  },
+  {
+    "turn_id": 20,
+    "speaker": "customer",
+    "text": "That's not the reason for my decision."
+  },
+  {
+    "turn_id": 21,
+    "speaker": "agent",
+    "text": "I'm just wondering."
+  },
+  {
+    "turn_id": 22,
+    "speaker": "customer",
+    "text": "What."
+  },
+  {
+    "turn_id": 23,
+    "speaker": "agent",
+    "text": "I've never leased the car."
+  },
+  {
+    "turn_id": 24,
+    "speaker": "customer",
+    "text": "I've always bought cars straight out."
+  },
+  {
+    "turn_id": 25,
+    "speaker": "agent",
+    "text": "What if we return the lease?"
+  },
+  {
+    "turn_id": 26,
+    "speaker": "customer",
+    "text": "Okay, so you said."
+  },
+  {
+    "turn_id": 27,
+    "speaker": "agent",
+    "text": "This is [PERSON_NAME]."
+  },
+  {
+    "turn_id": 28,
+    "speaker": "agent",
+    "text": "Did you lease your vehicle from us?"
+  },
+  {
+    "turn_id": 29,
+    "speaker": "customer",
+    "text": "Yes."
+  },
+  {
+    "turn_id": 30,
+    "speaker": "agent",
+    "text": "Okay, so let me just look up your file here real quick."
+  },
+  {
+    "turn_id": 31,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 32,
+    "speaker": "agent",
+    "text": "All right, Sounds good, man."
+  },
+  {
+    "turn_id": 33,
+    "speaker": "customer",
+    "text": "Yeah, and then I."
+  },
+  {
+    "turn_id": 34,
+    "speaker": "agent",
+    "text": "Another question you're looking up my file is I can sell the car."
+  },
+  {
+    "turn_id": 35,
+    "speaker": "customer",
+    "text": "And basically, does the warranty transfer to the new person or."
+  },
+  {
+    "turn_id": 36,
+    "speaker": "agent",
+    "text": "Couple questions here, [PERSON_NAME]."
+  },
+  {
+    "turn_id": 37,
+    "speaker": "customer",
+    "text": "Let me."
+  },
+  {
+    "turn_id": 38,
+    "speaker": "agent",
+    "text": "Let me look up your foot."
+  },
+  {
+    "turn_id": 39,
+    "speaker": "agent",
+    "text": "Let me look up your file here."
+  },
+  {
+    "turn_id": 40,
+    "speaker": "customer",
+    "text": "Who's."
+  },
+  {
+    "turn_id": 41,
+    "speaker": "agent",
+    "text": "Whose name is the car under?"
+  },
+  {
+    "turn_id": 42,
+    "speaker": "customer",
+    "text": "It's either under [PERSON_NAME] [PERSON_NAME] or [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 43,
+    "speaker": "agent",
+    "text": "Okay, so if I search a [PERSON_NAME] [PERSON_NAME] in our system, there's."
+  },
+  {
+    "turn_id": 44,
+    "speaker": "customer",
+    "text": "Let's see, there's three."
+  },
+  {
+    "turn_id": 45,
+    "speaker": "agent",
+    "text": "What's the address?"
+  },
+  {
+    "turn_id": 46,
+    "speaker": "customer",
+    "text": "[LOCATION] [LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 47,
+    "speaker": "agent",
+    "text": "Okay, that's not under [PERSON_NAME]."
+  },
+  {
+    "turn_id": 48,
+    "speaker": "customer",
+    "text": "I don't see a [PERSON_NAME] in there."
+  },
+  {
+    "turn_id": 49,
+    "speaker": "agent",
+    "text": "Okay, [PERSON_NAME] or [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 50,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 51,
+    "speaker": "agent",
+    "text": "[LOCATION] [LOCATION]."
+  },
+  {
+    "turn_id": 52,
+    "speaker": "customer",
+    "text": "Yeah, that's correct."
+  },
+  {
+    "turn_id": 53,
+    "speaker": "customer",
+    "text": "So it looks like he just bought this car, like, [DURATION] [DURATION] ago, and it was from [PERSON_NAME], right?"
+  },
+  {
+    "turn_id": 54,
+    "speaker": "agent",
+    "text": "No, I'm sorry."
+  },
+  {
+    "turn_id": 55,
+    "speaker": "customer",
+    "text": "[DURATION] [DURATION] ago."
+  },
+  {
+    "turn_id": 56,
+    "speaker": "customer",
+    "text": "It was almost [DURATION] [DURATION] ago."
+  },
+  {
+    "turn_id": 57,
+    "speaker": "agent",
+    "text": "I'm sorry."
+  },
+  {
+    "turn_id": 58,
+    "speaker": "customer",
+    "text": "No, I looked at the wrong screen and said there was an update [DURATION] [DURATION] ago."
+  },
+  {
+    "turn_id": 59,
+    "speaker": "agent",
+    "text": "Okay, so you bought it from [PERSON_NAME] last."
+  },
+  {
+    "turn_id": 60,
+    "speaker": "customer",
+    "text": "Last summer."
+  },
+  {
+    "turn_id": 61,
+    "speaker": "agent",
+    "text": "And it's a sportage that you're at, that you're talking about."
+  },
+  {
+    "turn_id": 62,
+    "speaker": "customer",
+    "text": "Yeah, it's the X Pro Prestige."
+  },
+  {
+    "turn_id": 63,
+    "speaker": "agent",
+    "text": "I mean, the car is beautiful, and I'm just wondering what my options are going forward."
+  },
+  {
+    "turn_id": 64,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 65,
+    "speaker": "agent",
+    "text": "If I."
+  },
+  {
+    "turn_id": 66,
+    "speaker": "customer",
+    "text": "If I return at the."
+  },
+  {
+    "turn_id": 67,
+    "speaker": "agent",
+    "text": "It's basically a, you know, a lease, and then just."
+  },
+  {
+    "turn_id": 68,
+    "speaker": "customer",
+    "text": "I don't know if I have to keep the equity."
+  },
+  {
+    "turn_id": 69,
+    "speaker": "agent",
+    "text": "That's what I'm guessing."
+  },
+  {
+    "turn_id": 70,
+    "speaker": "customer",
+    "text": "Or if I can sell it and try to."
+  },
+  {
+    "turn_id": 71,
+    "speaker": "agent",
+    "text": "Yeah, you cannot."
+  },
+  {
+    "turn_id": 72,
+    "speaker": "agent",
+    "text": "You cannot sell it because it's not yours."
+  },
+  {
+    "turn_id": 73,
+    "speaker": "customer",
+    "text": "I, I don't know about that."
+  },
+  {
+    "turn_id": 74,
+    "speaker": "agent",
+    "text": "I looked up the statute."
+  },
+  {
+    "turn_id": 75,
+    "speaker": "customer",
+    "text": "You can sell the car."
+  },
+  {
+    "turn_id": 76,
+    "speaker": "agent",
+    "text": "So."
+  },
+  {
+    "turn_id": 77,
+    "speaker": "customer",
+    "text": "To any, any book."
+  },
+  {
+    "turn_id": 78,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 79,
+    "speaker": "customer",
+    "text": "Right."
+  },
+  {
+    "turn_id": 80,
+    "speaker": "agent",
+    "text": "So this is where it gets tricky."
+  },
+  {
+    "turn_id": 81,
+    "speaker": "customer",
+    "text": "So you owe money on the car."
+  },
+  {
+    "turn_id": 82,
+    "speaker": "agent",
+    "text": "It's not yours."
+  },
+  {
+    "turn_id": 83,
+    "speaker": "customer",
+    "text": "You."
+  },
+  {
+    "turn_id": 84,
+    "speaker": "agent",
+    "text": "You're telling me a buyer is going to come in and pay off the car and transfer the title and pay taxes on it and then pay you for that?"
+  },
+  {
+    "turn_id": 85,
+    "speaker": "customer",
+    "text": "That's where you're."
+  },
+  {
+    "turn_id": 86,
+    "speaker": "agent",
+    "text": "It's just never going to happen."
+  },
+  {
+    "turn_id": 87,
+    "speaker": "customer",
+    "text": "You know what I mean?"
+  },
+  {
+    "turn_id": 88,
+    "speaker": "agent",
+    "text": "I mean, obviously you're right."
+  },
+  {
+    "turn_id": 89,
+    "speaker": "customer",
+    "text": "They're not going to pay out the full amount."
+  },
+  {
+    "turn_id": 90,
+    "speaker": "agent",
+    "text": "Right."
+  },
+  {
+    "turn_id": 91,
+    "speaker": "customer",
+    "text": "So if you were to."
+  },
+  {
+    "turn_id": 92,
+    "speaker": "agent",
+    "text": "If you were looking to sell it outright, you would want to buy it out first and then sell it, and then you'd owe money on it."
+  },
+  {
+    "turn_id": 93,
+    "speaker": "customer",
+    "text": "And again, when a buyer comes to buy a car privately, you owe money on it."
+  },
+  {
+    "turn_id": 94,
+    "speaker": "agent",
+    "text": "The buyer is going to want a clean title, and you don't get a clean title until there's no loan on the car."
+  },
+  {
+    "turn_id": 95,
+    "speaker": "customer",
+    "text": "So it is very, very tricky to sell something privately that you owe money on."
+  },
+  {
+    "turn_id": 96,
+    "speaker": "agent",
+    "text": "Understandable."
+  },
+  {
+    "turn_id": 97,
+    "speaker": "agent",
+    "text": "So, yeah, I mean, if you want to return the lease."
+  },
+  {
+    "turn_id": 98,
+    "speaker": "customer",
+    "text": "It's just that my company owes me $[MONEY_AMOUNT] and they're not, they're not paying me out."
+  },
+  {
+    "turn_id": 99,
+    "speaker": "agent",
+    "text": "So it's kind of a conundrum."
+  },
+  {
+    "turn_id": 100,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 101,
+    "speaker": "agent",
+    "text": "And we need [DURATION] cars, and for the price that I'm paying for this very nice car that I want to keep 100% that I can get probably [DURATION], you know, older model cars and I might purchase them from [ORGANIZATION]."
+  },
+  {
+    "turn_id": 102,
+    "speaker": "customer",
+    "text": "To tell you the truth, if you have any vehicles, because I do like this style and even maybe [DURATION] [DURATION] old or [DURATION] years old, sorry I'm driving is, you know, worth purchasing and not going with the X Pro for speed."
+  },
+  {
+    "turn_id": 103,
+    "speaker": "agent",
+    "text": "I was in a bind and I needed a car asap."
+  },
+  {
+    "turn_id": 104,
+    "speaker": "agent",
+    "text": "And you know, this is the highest model that you can get with this portage."
+  },
+  {
+    "turn_id": 105,
+    "speaker": "customer",
+    "text": "Yep, Sounds good."
+  },
+  {
+    "turn_id": 106,
+    "speaker": "agent",
+    "text": "So I think what we need to do, [PERSON_NAME], is schedule an appointment with [PERSON_NAME]."
+  },
+  {
+    "turn_id": 107,
+    "speaker": "agent",
+    "text": "So [PERSON_NAME] your [OCCUPATION], and she can take a look at the buyout on the vehicle and the market value for it."
+  },
+  {
+    "turn_id": 108,
+    "speaker": "customer",
+    "text": "And there's a chance that we could just buy you out."
+  },
+  {
+    "turn_id": 109,
+    "speaker": "agent",
+    "text": "And if there's equity left over, then we cut you a check if."
+  },
+  {
+    "turn_id": 110,
+    "speaker": "customer",
+    "text": "But I mean, it's."
+  },
+  {
+    "turn_id": 111,
+    "speaker": "agent",
+    "text": "It's hard to say without, you know, having the car here pulling up your file."
+  },
+  {
+    "turn_id": 112,
+    "speaker": "agent",
+    "text": "You'd want to schedule that appointment with [PERSON_NAME] because [PERSON_NAME] was your [OCCUPATION]."
+  },
+  {
+    "turn_id": 113,
+    "speaker": "customer",
+    "text": "No."
+  },
+  {
+    "turn_id": 114,
+    "speaker": "agent",
+    "text": "Totally understand."
+  },
+  {
+    "turn_id": 115,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 116,
+    "speaker": "agent",
+    "text": "This car, I mean, on the street, I mean, everybody."
+  },
+  {
+    "turn_id": 117,
+    "speaker": "customer",
+    "text": "I mean, like [PERSON_NAME] [PERSON_NAME]."
+  },
+  {
+    "turn_id": 118,
+    "speaker": "agent",
+    "text": "I could sell this in basically [DURATION] [DURATION], people already asked about it."
+  },
+  {
+    "turn_id": 119,
+    "speaker": "customer",
+    "text": "It's a unique color."
+  },
+  {
+    "turn_id": 120,
+    "speaker": "agent",
+    "text": "It's green and, you know, black."
+  },
+  {
+    "turn_id": 121,
+    "speaker": "customer",
+    "text": "So I'm just wondering, you know, what."
+  },
+  {
+    "turn_id": 122,
+    "speaker": "agent",
+    "text": "You guys."
+  },
+  {
+    "turn_id": 123,
+    "speaker": "customer",
+    "text": "You know, like you said, you got to sit down and figure out a number."
+  },
+  {
+    "turn_id": 124,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 125,
+    "speaker": "customer",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 126,
+    "speaker": "agent",
+    "text": "Did you."
+  },
+  {
+    "turn_id": 127,
+    "speaker": "customer",
+    "text": "Do you have [PERSON_NAME] contact info?"
+  },
+  {
+    "turn_id": 128,
+    "speaker": "agent",
+    "text": "Okay, so."
+  },
+  {
+    "turn_id": 129,
+    "speaker": "customer",
+    "text": "Okay, and you're at [LOCATION] [LOCATION] or."
+  },
+  {
+    "turn_id": 130,
+    "speaker": "agent",
+    "text": "No, that's correct."
+  },
+  {
+    "turn_id": 131,
+    "speaker": "customer",
+    "text": "Okay, I will text you over her desk phone."
+  },
+  {
+    "turn_id": 132,
+    "speaker": "agent",
+    "text": "She's just."
+  },
+  {
+    "turn_id": 133,
+    "speaker": "agent",
+    "text": "She's not in the office today, but you want to get a hold of her and just get."
+  },
+  {
+    "turn_id": 134,
+    "speaker": "customer",
+    "text": "Mm."
+  },
+  {
+    "turn_id": 135,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 136,
+    "speaker": "customer",
+    "text": "Sounds good, sir."
+  },
+  {
+    "turn_id": 137,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "turn_id": 138,
+    "speaker": "customer",
+    "text": "So ever give me a call at my number."
+  },
+  {
+    "turn_id": 139,
+    "speaker": "agent",
+    "text": "Yep."
+  },
+  {
+    "turn_id": 140,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 141,
+    "speaker": "agent",
+    "text": "Sounds good."
+  },
+  {
+    "turn_id": 142,
+    "speaker": "customer",
+    "text": "All right."
+  },
+  {
+    "turn_id": 143,
+    "speaker": "agent",
+    "text": "Yeah, and then I. I had a question."
+  },
+  {
+    "turn_id": 144,
+    "speaker": "customer",
+    "text": "One more question for you."
+  },
+  {
+    "turn_id": 145,
+    "speaker": "customer",
+    "text": "So when I originally bought the car, they said I could change my oil myself."
+  },
+  {
+    "turn_id": 146,
+    "speaker": "agent",
+    "text": "And then all of a sudden, I called in, and I was just making sure that, you know, we're using the correct oil, and I'm making the documentation, et cetera, et cetera, et cetera, so the warranty won't be void."
+  },
+  {
+    "turn_id": 147,
+    "speaker": "customer",
+    "text": "And then all of a sudden, they said, no, you have to go to either our dealership or you have to go to, like, an instant oil change or wherever you'd have to go for that documentation."
+  },
+  {
+    "turn_id": 148,
+    "speaker": "agent",
+    "text": "They said that your receipts on the oil are just not enough."
+  },
+  {
+    "turn_id": 149,
+    "speaker": "customer",
+    "text": "Is that correct?"
+  },
+  {
+    "turn_id": 150,
+    "speaker": "agent",
+    "text": "It was under my."
+  },
+  {
+    "turn_id": 151,
+    "speaker": "agent",
+    "text": "It was under my understanding that you could change your own oil if you saved all your receipts and everything."
+  },
+  {
+    "turn_id": 152,
+    "speaker": "customer",
+    "text": "So I've never heard otherwise from a technical standpoint, but it's just imperative that you make sure you're."
+  },
+  {
+    "turn_id": 153,
+    "speaker": "agent",
+    "text": "You're documenting everything you purchased and to save your receipts."
+  },
+  {
+    "turn_id": 154,
+    "speaker": "customer",
+    "text": "Absolutely."
+  },
+  {
+    "turn_id": 155,
+    "speaker": "agent",
+    "text": "And that's what I've been doing."
+  },
+  {
+    "turn_id": 156,
+    "speaker": "customer",
+    "text": "And I used to change it before you're even supposed to change it."
+  },
+  {
+    "turn_id": 157,
+    "speaker": "agent",
+    "text": "I mean, I know how."
+  },
+  {
+    "turn_id": 158,
+    "speaker": "customer",
+    "text": "How cars."
+  },
+  {
+    "turn_id": 159,
+    "speaker": "agent",
+    "text": "How fickle cars are, especially new ones."
+  },
+  {
+    "turn_id": 160,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 161,
+    "speaker": "agent",
+    "text": "Sounds good, sir."
+  },
+  {
+    "turn_id": 162,
+    "speaker": "customer",
+    "text": "Well, I will let [PERSON_NAME] know you called in."
+  },
+  {
+    "turn_id": 163,
+    "speaker": "agent",
+    "text": "All right, so once you answer, is it a yes or no?"
+  },
+  {
+    "turn_id": 164,
+    "speaker": "customer",
+    "text": "I'm."
+  },
+  {
+    "turn_id": 165,
+    "speaker": "agent",
+    "text": "I'm in the [ORGANIZATION] [ORGANIZATION], but I've never heard otherwise, that you can't do your own oil."
+  },
+  {
+    "turn_id": 166,
+    "speaker": "agent",
+    "text": "You just have to save your own receipts."
+  },
+  {
+    "turn_id": 167,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 168,
+    "speaker": "agent",
+    "text": "All right."
+  },
+  {
+    "turn_id": 169,
+    "speaker": "customer",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 170,
+    "speaker": "agent",
+    "text": "Okay."
+  },
+  {
+    "turn_id": 171,
+    "speaker": "customer",
+    "text": "Thank you."
+  }
+]
