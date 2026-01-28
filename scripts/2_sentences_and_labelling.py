@@ -66,7 +66,10 @@ AGENT_KEYWORDS = [
     "qualified",
     "thank you for calling",
     "behalf of",
-    "appreciate your patience"
+    "appreciate your patience",
+    "please choose",
+    "you have the right",
+    "are busy"
 ]
 
 CUSTOMER_KEYWORDS = [

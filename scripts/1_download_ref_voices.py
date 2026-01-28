@@ -1,7 +1,7 @@
+import random
 import soundfile as sf
-import numpy as np
-from datasets import load_dataset
 from pathlib import Path
+from datasets import load_dataset, Audio
 
 # ---------- CONFIG ----------
 DATASET_NAME = "sdialog/voices-libritts"
@@ -15,50 +15,59 @@ AGENT_DIR.mkdir(parents=True, exist_ok=True)
 CUSTOMER_DIR.mkdir(parents=True, exist_ok=True)
 
 TARGET_SECONDS = 10
-SAMPLE_RATE = 24000  # LibriTTS standard
-
-N_AGENT = 20
+N_AGENT = 15
 N_CUSTOMER = 30
-
-# ---------- HELPERS ----------
-def save_first_10s(audio_array, sr, out_path):
-    max_samples = TARGET_SECONDS * sr
-    trimmed = audio_array[:max_samples]
-    sf.write(out_path, trimmed, sr)
+RANDOM_SEED = 42
 
 # ---------- MAIN ----------
 def main():
-    print("Loading dataset (streaming=False)...")
+    print("Loading dataset (audio decode disabled)...")
+
     ds = load_dataset(DATASET_NAME, split=SPLIT)
+
+    # 🔑 CRITICAL LINE — disables torchcodec
+    ds = ds.cast_column("audio", Audio(decode=False))
+
+    indices = list(range(len(ds)))
+    random.seed(RANDOM_SEED)
+    random.shuffle(indices)
 
     agent_count = 0
     customer_count = 0
 
-    for idx, item in enumerate(ds):
-        audio = item["audio"]["array"]
-        sr = item["audio"]["sampling_rate"]
-
-        # Safety check
-        if sr != SAMPLE_RATE:
-            audio = audio[: int(len(audio) * SAMPLE_RATE / sr)]
-            sr = SAMPLE_RATE
-
-        # Heuristic role assignment (temporary)
-        if agent_count < N_AGENT:
-            out_path = AGENT_DIR / f"agent_{agent_count:02d}.wav"
-            save_first_10s(audio, sr, out_path)
-            agent_count += 1
-
-        elif customer_count < N_CUSTOMER:
-            out_path = CUSTOMER_DIR / f"customer_{customer_count:02d}.wav"
-            save_first_10s(audio, sr, out_path)
-            customer_count += 1
-
+    for idx in indices:
         if agent_count >= N_AGENT and customer_count >= N_CUSTOMER:
             break
+
+        item = ds[idx]
+        audio_path = item["audio"]["path"]
+
+        # Load audio manually (stable)
+        audio, sr = sf.read(audio_path)
+
+        if len(audio) < TARGET_SECONDS * sr:
+            continue  # skip too-short clips
+
+        # Decide role
+        if agent_count < N_AGENT and customer_count < N_CUSTOMER:
+            role = random.choice(["agent", "customer"])
+        elif agent_count < N_AGENT:
+            role = "agent"
+        else:
+            role = "customer"
+
+        if role == "agent":
+            out_path = AGENT_DIR / f"agent_{agent_count:02d}.wav"
+            sf.write(out_path, audio[: TARGET_SECONDS * sr], sr)
+            agent_count += 1
+        else:
+            out_path = CUSTOMER_DIR / f"customer_{customer_count:02d}.wav"
+            sf.write(out_path, audio[: TARGET_SECONDS * sr], sr)
+            customer_count += 1
 
     print(f"✅ Saved {agent_count} agent voices")
     print(f"✅ Saved {customer_count} customer voices")
 
+# ---------- RUN ----------
 if __name__ == "__main__":
     main()
