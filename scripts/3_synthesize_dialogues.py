@@ -4,6 +4,7 @@ import numpy as np
 import soundfile as sf
 from pathlib import Path
 from tqdm import tqdm
+import csv
 
 import torch
 from TTS.api import TTS
@@ -12,16 +13,19 @@ from TTS.api import TTS
 DIALOGUE_ROOT = Path("data/processed_dialogues")
 VOICE_ROOT = Path("data/reference_voices")
 OUTPUT_ROOT = Path("data/synthetic_audio")
+META_ROOT = Path("data/metadata")
 
 AGENT_VOICES = list((VOICE_ROOT / "agent").glob("*.wav"))
 CUSTOMER_VOICES = list((VOICE_ROOT / "customer").glob("*.wav"))
 
 SAMPLE_RATE = 24000
-PAUSE_BETWEEN_TURNS = 0.4  # seconds of silence
+PAUSE_BETWEEN_TURNS = 0.4  # seconds
 
 XTTS_MODEL_ID = "tts_models/multilingual/multi-dataset/xtts_v2"
-
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+
+META_ROOT.mkdir(parents=True, exist_ok=True)
+CSV_PATH = META_ROOT / "segments.csv"
 
 # ---------- LOAD MODEL ----------
 print("Loading XTTS-v2...")
@@ -29,7 +33,6 @@ tts = TTS(
     model_name=XTTS_MODEL_ID,
     progress_bar=False
 ).to(DEVICE)
-
 
 # ---------- HELPERS ----------
 def silence(duration_sec):
@@ -48,42 +51,71 @@ def process_all():
     dialogues = list(DIALOGUE_ROOT.rglob("*_labeled.json"))
     print(f"Found {len(dialogues)} dialogues")
 
-    for dialog_path in tqdm(dialogues, desc="Synthesizing"):
-        rel = dialog_path.relative_to(DIALOGUE_ROOT)
-        out_dir = OUTPUT_ROOT / rel.parent
-        out_dir.mkdir(parents=True, exist_ok=True)
+    write_header = not CSV_PATH.exists()
 
-        out_wav = out_dir / f"{dialog_path.stem}.wav"
-        if out_wav.exists():
-            continue
+    with open(CSV_PATH, "a", newline="") as csvfile:
+        writer = csv.writer(csvfile)
 
-        # Randomly pick voices for THIS dialogue
-        agent_voice = random.choice(AGENT_VOICES)
-        customer_voice = random.choice(CUSTOMER_VOICES)
+        if write_header:
+            writer.writerow([
+                "audio_path",
+                "speaker",
+                "time_start",
+                "time_end",
+                "text"
+            ])
 
-        with open(dialog_path) as f:
-            turns = json.load(f)
+        for dialog_path in tqdm(dialogues, desc="Synthesizing"):
+            rel = dialog_path.relative_to(DIALOGUE_ROOT)
+            out_dir = OUTPUT_ROOT / rel.parent
+            out_dir.mkdir(parents=True, exist_ok=True)
 
-        full_audio = []
-
-        for turn in turns:
-            speaker = turn["speaker"]
-            text = turn["text"].strip()
-
-            if not text:
+            out_wav = out_dir / f"{dialog_path.stem}.wav"
+            if out_wav.exists():
                 continue
 
-            voice = agent_voice if speaker == "agent" else customer_voice
-            wav = synthesize_turn(text, voice)
+            agent_voice = random.choice(AGENT_VOICES)
+            customer_voice = random.choice(CUSTOMER_VOICES)
 
-            full_audio.append(wav)
-            full_audio.append(silence(PAUSE_BETWEEN_TURNS))
+            with open(dialog_path) as f:
+                turns = json.load(f)
 
-        if full_audio:
-            dialogue_audio = np.concatenate(full_audio)
-            sf.write(out_wav, dialogue_audio, SAMPLE_RATE)
+            full_audio = []
+            current_time = 0.0  # seconds
 
-    print("✅ Synthesis complete")
+            for turn in turns:
+                speaker = turn["speaker"]
+                text = turn["text"].strip()
+
+                if not text:
+                    continue
+
+                voice = agent_voice if speaker == "agent" else customer_voice
+                wav = synthesize_turn(text, voice)
+
+                duration = len(wav) / SAMPLE_RATE
+                start = current_time
+                end = start + duration
+
+                # save metadata row
+                writer.writerow([
+                    out_wav.name,
+                    speaker,
+                    round(start, 3),
+                    round(end, 3),
+                    text
+                ])
+
+                full_audio.append(wav)
+                full_audio.append(silence(PAUSE_BETWEEN_TURNS))
+
+                current_time = end + PAUSE_BETWEEN_TURNS
+
+            if full_audio:
+                dialogue_audio = np.concatenate(full_audio)
+                sf.write(out_wav, dialogue_audio, SAMPLE_RATE)
+
+    print("✅ Synthesis + timestamps complete")
 
 # ---------- RUN ----------
 if __name__ == "__main__":
