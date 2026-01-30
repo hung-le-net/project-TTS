@@ -25,14 +25,14 @@
 ```text
 project-root/
 ├── .venv/                           # Python virtual environment
-├── data/                        
+├── data/
 │   ├── json_data/                   # Source data in JSON format
 │   ├── processed_dialogues/         # Intermediate processed text/dialogues
-│   ├── reference_voices/            # Audio samples used as references
+│   ├── reference_voices/            # Sample prompts
 │   └── synthetic_audio/             # Generated audio files
-└── scripts/                     
-    ├── 1_download_ref_voices.py     # Step 1: Downloads reference audio assets
-    ├── 2_sentences_and_labelling.py # Step 2: Prepares sentences and assigns labels
+└── scripts/
+    ├── 1_sentences_and_labelling.py # Step 1: Prepares sentences and assigns labels
+    ├── 2_fill_masks_with_gemini.py  # Step 2: Fills masks to make complete dialogues
     └── 3_synthesize_dialogues.py    # Step 3: Generates the final synthetic audio
 ```
 
@@ -40,13 +40,14 @@ project-root/
 
 ### Prerequisites
 
-* **Python 3.11** (required)
-* **CUDA** (optional, if using GPU for PyTorch)
-* **CPU** (run locally)
+- **Python 3.11** (required)
+- **CUDA** (optional, if using GPU for PyTorch)
+- **CPU** (run locally) <- this project
 
 ### Installation
 
 1.  **Clone the repository**
+
     ```bash
     git clone https://github.com/hung-le-net/project-TTS.git
     cd project-TTS
@@ -54,6 +55,7 @@ project-root/
 
 2.  **Set up the Virtual Environment**
     It is highly recommended to use a virtual environment to manage specific dependency versions.
+
     ```bash
     # Create the virtual environment with Python 3.11
     python3.11 -m venv .venv
@@ -66,6 +68,7 @@ project-root/
     ```
 
 3.  **Install Dependencies**
+
     ```bash
     pip install -r requirements.txt
     ```
@@ -76,14 +79,16 @@ project-root/
 
 Run the scripts in the following order to generate the audio files:
 
-1.  **Download Reference Voices**
+1.  **Process Sentences & Labels**
+
     ```bash
-    python scripts/1_download_ref_voices.py
+    python scripts/1_sentences_and_labelling.py
     ```
 
-2.  **Process Sentences & Labels**
+2.  **Fill masks with Gemini**
+
     ```bash
-    python scripts/2_sentences_and_labelling.py
+    python scripts/2_fill_masks_with_gemini.py
     ```
 
 3.  **Synthesize Dialogues**
